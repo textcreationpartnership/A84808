@@ -1,0 +1,1044 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Saul's errand to Damascus: with his packet of letters from the high-priests, against the disciples of the Lord. Or, A faithful transcript of a petition contrived by some persons in Lancanshire, who call themselves ministers of the gospel, breathing out threatnings and slaughters against a peaceable &amp; godly people there, by them nick-named Quakers. Together with the defence of the persons thereby traduced, against the slanderous and false suggestions of that petition, and other untruths charged upon them. Published to no other end, but to draw out the bowels of tender compassion from all that love the poor despised servants of Jesus Christ, who have been the scorn of carnal men in all ages.</title>
+            <author>Fox, George, 1624-1691.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1653</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 98 KB of XML-encoded text transcribed from 25 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84808</idno>
+            <idno type="STC">Wing F1894</idno>
+            <idno type="STC">Thomason E689_17</idno>
+            <idno type="STC">ESTC R206937</idno>
+            <idno type="EEBO-CITATION">99866024</idno>
+            <idno type="PROQUEST">99866024</idno>
+            <idno type="VID">118283</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84808)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 118283)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 106:E689[17])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Saul's errand to Damascus: with his packet of letters from the high-priests, against the disciples of the Lord. Or, A faithful transcript of a petition contrived by some persons in Lancanshire, who call themselves ministers of the gospel, breathing out threatnings and slaughters against a peaceable &amp; godly people there, by them nick-named Quakers. Together with the defence of the persons thereby traduced, against the slanderous and false suggestions of that petition, and other untruths charged upon them. Published to no other end, but to draw out the bowels of tender compassion from all that love the poor despised servants of Jesus Christ, who have been the scorn of carnal men in all ages.</title>
+                  <author>Fox, George, 1624-1691.</author>
+                  <author>Lawson, John, of Lancaster.</author>
+               </titleStmt>
+               <extent>[10], 38 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Giles Calvert, at the black Spread-Eagle at the west-end of Pauls,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1653.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "March 12.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Quakers --  Early works to 1800.</term>
+               <term>Religious tolerance --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:118283:1" rendition="simple:additions"/>
+            <p>
+               <hi>SA<g ref="char:V">Ʋ</g>L</hi>'s ERRAND TO <hi>DAMASC<g ref="char:V">Ʋ</g>S:</hi> WITH His Packet of Letters from the High-Prieſts, againſt the diſciples of the Lord.</p>
+            <p>OR, A faithful Tranſcript of a PETITION contrived by ſome perſons in <hi>Lancaſhire,</hi> who call themſelves Miniſters of the Goſpel, breathing out threatnings and ſlaughters againſt a peaceable &amp; godly people there, by them nick-named <hi>Q<g ref="char:V">Ʋ</g>AKERS.</hi>
+            </p>
+            <p>Together with the Defence of the perſons thereby traduced, againſt the ſlanderous and falſe ſuggeſtions of that Petition, and other untruths charged upon them.</p>
+            <p>Publiſhed to no other end, but to draw out the bowels of tender compaſſion from all that love the poor deſpiſed ſervants of Jeſus Chriſt, who have been the ſcorn of carnal men in all ages.</p>
+            <q>
+               <bibl>
+                  <hi>Matth. 5.10, 11, 12.</hi>
+               </bibl> Bleſſed are they which are perſecuted for righteouſneſs; for theirs is the kingdom of heaven. Bleſſed are ye, when men ſhall revile you, and perſecute you, and ſhall ſay all manner of evil againſt you, falſly, for my ſake. Rejoyce, and be exceeding glad; for great is your reward in heaven: for ſo perſecuted they the Prophets which were before you.</q>
+            <p>
+               <hi>London,</hi> printed for <hi>Giles Calvert,</hi> at the black Spread-Eagle at the weſt-end of <hi>Pauls.</hi> 1653.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:118283:2"/>
+            <pb facs="tcp:118283:2"/>
+            <head>To all that love the Lord Jeſus Christ.</head>
+            <opener>
+               <salute>Dear hearts!</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">Y</seg>Ou love the Lord JESUS CHRIST, and not him alone, but Chriſt, with all his Train. Great ſhall be your compen<g ref="char:EOLhyphen"/>ſation: for your Love, you ſhall have
+<note place="margin">
+                  <hi>a</hi> Cant. 7.12.</note> Loves, <hi>Amores,</hi> a plurality, an infinity of Loves; which none but God in Chriſt hath to beſtow. The beſt of his Relations upon earth, have but Single Love (and 'tis happie they have Love) to the Brethren; But Chriſt hath Loves for the meaneſt of you, the leaſt of his. May you, and
+<pb facs="tcp:118283:3"/>all his (in whom there are yet but buds, ſcarce viſible appearances of Graces) prove fruitful Vines, grow from Buds to Bloſſoms, from Bloſſoms to abun<g ref="char:EOLhyphen"/>dance of fruits; That when the Lord ſhall get up early to viſit his Vineyard, you may feaſt him with pleaſant fruits new and old; you may bleſs him for his Loves of former and later days, and be ever to him an humble, holy, and thankful, and to his brethren a com<g ref="char:EOLhyphen"/>forting people. Glory in your habit; you wear the ſignal Favours of the King of kings, and Lord of hoſts, the Great and Mighty JEHOVAH, Love: By which I know to whom ye belong, becauſe ye love the Brethren.</p>
+         </div>
+         <div type="to_the_petitioners">
+            <pb facs="tcp:118283:3"/>
+            <head>TO The Contrivers and Subſcribers of the Petition.</head>
+            <opener>
+               <salute>Poor hearts,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg>S this a time to chide, and be angry, and pick quarrels? and (if you muſt needs do ſo) can you finde no other objects of your indignation, but the Lords Diſciples? but peaceable, holy, humble, ſelf-denying men? Is not the work of the Miniſtery to preach the Goſpel? Is not the ſword of the Magiſtrate appointed to the puniſhment of evil doers, and to the praiſe of them that do well? Are you incumbent in your duties? are you laying out your Talents to the end they were given you? or are you miſtaken in the thing? When did you proclaim war a<g ref="char:EOLhyphen"/>gainſt Drunkards, Swearers, common Blaſ<g ref="char:EOLhyphen"/>phemers,
+<pb facs="tcp:118283:4"/>enemies to the Lord and his peo<g ref="char:EOLhyphen"/>ple? have you none of thoſe amongſt you? or are your high-flown contending ſpirits gone beyond ſuch ſlender wraſtlings, that you ſcorn to encounter with any below the degree of a Saint? The Lord open your eyes, and let you ſee, and give you hearts to con<g ref="char:EOLhyphen"/>ſider your ſeveral duties. But tell me, ye ſons of <hi>Levi</hi> (as ye call your ſelves) ye that pretend a <hi>Jus Divinum</hi> to Perſecution; What will ye ſay, when the Son of man ſhall come in his glory, and all the holy Angels with him, and ſhall ſit upon the Throne of his glory, and all Nations ſhall be gathered be<g ref="char:EOLhyphen"/>fore him? mind ye what wilbe the great work of that great day; your Petition will ſurely then be heard. I beſeech you read the paper of Cauſes ſet down to be firſt heard at that Tribunal, in <hi>Matth.</hi> 25.31. to the end of the Chapter: And the Lord let it dwell upon your hearts for ever.</p>
+         </div>
+         <div type="to_the_Christian_reader">
+            <pb facs="tcp:118283:4"/>
+            <head>To the Chriſtian Reader.</head>
+            <p>
+               <seg rend="decorInit">T</seg>Heſe are to let thee know, that the on<g ref="char:EOLhyphen"/>ly wiſe God at this time hath ſo by his providence ordered it, in the North-parts of <hi>Lancaſhire,</hi> that many pretious Chriſtians (and ſo for many years accounted, before the nick-name <hi>Quakers</hi> was heard of) have, for ſome time paſt, for<g ref="char:EOLhyphen"/>borne to concorporate in Parochial Aſſemblies, wherein they profeſs themſelves to have gained lit<g ref="char:EOLhyphen"/>tle of the knowledge of Jeſus Chriſt: And it is, and hath been put upon their hearts, to meet often (and on the Lords day conſtantly) at convenient places, to ſeek the Lord their Redeemer, and to worſhip him in Spirit and in truth, and to ſpeak of ſuch things (tending to mutual edification) as the good Spirit of the Lord ſhall teach them; demeaning themſelves without any offence given to any that truely fear the Lord.</p>
+            <p>But true it is, that ſome men and intereſts of thoſe parts do take great offence at them, and their Chri<g ref="char:EOLhyphen"/>ſtian
+<pb facs="tcp:118283:5"/>and peaceable exerciſes; ſome, becauſe they have witneſſed againſt pride and luxuriant fulneſs, have therefore come armed with Sword and Piſtols (men that never drew a Sword for the intereſt of the Commonwealth of <hi>England,</hi> perhaps againſt it) into their aſſemblies in time of their Chriſtian perform<g ref="char:EOLhyphen"/>ances, and have taken him whom the Lord at that inſtant had moved to ſpeak to the reſt, and others of their aſſembly (after they had haled and beaten them) and carryed them bound hand and feet into the open fields, in the cold of the night, and there left them to the hazard of their lives, had not the Lord of life owned them, which he did in much mercy. Others have had their houſes broken in the night, and entred by men armed as aforeſaid (and diſguiſed) when they have been peaceably waiting upon God with their owne and neighbour-families: and yet theſe humble perſecuted Chriſtians would not (even in theſe caſes of groſs and intolerable af<g ref="char:EOLhyphen"/>fronts acted equally againſt the peace of the Nation as againſt them) complain, but expreſſed how much (in meaſure) of their maſters patience was given them in breathing out their Maſters gentle words, <hi>Father forgive them; they know not what they do.</hi> Who have at any time born ſuch unheard-of perſecution with ſo mild Spirits? onely they in whom perſecuted Chriſt dwells: theſe poor creatures know how their Maſter fared, and rejoyce to ſuffer with him, by whom alone they hope to be glorified; and are as well content to ſuffer, as to reign with Chriſt: but how unwilling<g ref="char:EOLhyphen"/>ly do we deny our ſelves, and take up our croſs and follow Chriſt? and yet a neceſſity lies upon us (if
+<pb facs="tcp:118283:5"/>we will be the Lords Diſciples) to take up our croſs dayly and follow him: How is it then, that the crown of Pride is ſo long upon the head of Perſecu<g ref="char:EOLhyphen"/>tors? how is it that ſuch men ſhould dare to divide the people of <hi>England,</hi> to trouble the Councel of State (in the throng of buſineſs concerning the ma<g ref="char:EOLhyphen"/>nagement and improvement of all the mighty Series of glorious providence made out to this infant-Com<g ref="char:EOLhyphen"/>monwealth) with ſuch abominable miſrepreſentati<g ref="char:EOLhyphen"/>ons of honeſt, pious, peaceable men, who deſire no<g ref="char:EOLhyphen"/>thing more then to glorifie their God in their gene<g ref="char:EOLhyphen"/>ration, and are and have been more faithful to the intereſt of Gods people in the Nation, then any of the contrivers of the Petition, as will eaſily be made appear, if we may take for evidence what they them<g ref="char:EOLhyphen"/>ſelves have often ſaid of the Parliament and Army, and their Friends and Servants, publickly and pri<g ref="char:EOLhyphen"/>vately; and 'tis well known their judgements are the ſame; but that the publication thereof will not ſafe<g ref="char:EOLhyphen"/>ly conſiſt with the enjoyment of their large Vica<g ref="char:EOLhyphen"/>redges, Parſonages, and Augmentations, whereby they are lifted up above their Brethren, and exalt them<g ref="char:EOLhyphen"/>ſelves above all that are called Gods people in theſe parts.</p>
+            <p>However, Reader, we need not fear; we hope the Lord will never ſuffer that Monſter Perſecution a<g ref="char:EOLhyphen"/>gaine to enter within the gates of <hi>Englands Whitehal:</hi> They that ſit in Council there, know well enough who it was that ſo often aſſembled to conſult how they might take Jeſus by ſubtilty and kill him: they were men of no lower condition then Chiefe-Prieſts, Scribes, and Elders of the people: and if
+<pb facs="tcp:118283:6"/>ever theſe Petitioners ſhould but appear before them to whom they have directed their Petition, my heart deceives me if they be not accounted ſuch.</p>
+            <p>Reader, I would not preface thee into a good opini<g ref="char:EOLhyphen"/>on of theſe ſuffering objects of ſuch mens wrath; but read their paper here put into thy hand, by them written, upon the occaſion of this Petition, and ſeveral ſnares and temptations laid before them, on purpoſe to entrap them; and if by them thou canſt finde cauſe to pity theſe oppreſſed little-ones, have them in thy remembrance when thou goeſt to the throne of Grace, where my prayers ſhall meet thine, for them.</p>
+         </div>
+      </front>
+      <body>
+         <div type="petition">
+            <pb n="1" facs="tcp:118283:6"/>
+            <div type="petition_proper">
+               <head>To the Right Honorable The Councel of State: <hi>The humble Petition of ſeveral Gentle<g ref="char:EOLhyphen"/>men, Justices of Peace, Miniſters of the Goſpel, and People, within the County of</hi> Lancaſter, <hi>whoſe names are ſubſcribed.</hi>
+               </head>
+               <opener>Sheweth,</opener>
+               <p>THat <hi>George Fox,</hi> and <hi>James Nayler,</hi> are perſons diſ<g ref="char:EOLhyphen"/>affected to Religion, and the wholeſome Laws of this Nation; and that ſince their coming into this Country, have broached Opinions tending to the deſtruction of the relation of Subjects to their Ma<g ref="char:EOLhyphen"/>giſtrates, Wives to their Husbands, Children to their Parents, Servants to their Maſters, Congregations to their Miniſters, and of a People to their God: And have drawn much people after them; many where<g ref="char:EOLhyphen"/>of (men, women, and little children) at their meet<g ref="char:EOLhyphen"/>ings are ſtrangely wrought upon in their bodies, and brought to fall, foam at the mouth, roar, and ſwell in their bellies. And that ſome of them affirmed
+<pb n="2" facs="tcp:118283:7"/>themſelves to be equal with God, contrary to the late Act, as hath been atteſted at a late Quarter-Seſ<g ref="char:EOLhyphen"/>ſions holden at <hi>Lancaster</hi> in <hi>October</hi> laſt paſt; and ſince that time, acknowledged before many Witneſſes; beſides many other dangerous Opinions, and damna<g ref="char:EOLhyphen"/>ble Hereſies, as appears by a Schedule hereunto an<g ref="char:EOLhyphen"/>nexed, with the names of the Witneſſes ſub<g ref="char:EOLhyphen"/>ſcribed.</p>
+               <p>
+                  <hi>May it therefore pleaſe your Honours upon the conſi<g ref="char:EOLhyphen"/>deration of the Premiſſes, to provide (as your wiſ<g ref="char:EOLhyphen"/>doms ſhall think fit) That ſome ſpeedy courſe may be taken for the ſpeedy ſuppreſsing of theſe evils.</hi>
+               </p>
+               <closer>
+                  <signed>And your Petitioners ſhall ever pray, as in duty bound.</signed>
+               </closer>
+            </div>
+            <div type="evidence_for_petition">
+               <p n="1">1. George <hi>profeſſed and avowed that he was equal with God.</hi>
+               </p>
+               <p n="2">2. <hi>He profeſſed himſelf to be the Eternal Judge of the world.</hi>
+               </p>
+               <p n="3">3. <hi>He ſaid he was the Judge of the world.</hi>
+               </p>
+               <p n="4">4. <hi>He ſaid he was the Chriſt, the way, the truth, the life.</hi>
+               </p>
+               <p n="5">5. <hi>He ſaid, Whoſoever took a place of Scripture, and made a Sermon of it and from it, was a Conjurer, and his Preaching Conjuration.</hi>
+               </p>
+               <p n="6">6. <hi>He ſaid that the Scripture was carnal.</hi>
+               </p>
+               <p>James Milner, <hi>a follower of the ſaid</hi> Fox, <hi>profeſſeth himſelf to be God and Chriſt; and gives out Prophecies,</hi>
+               </p>
+               <p n="1">1. <hi>That the day of Judgement ſhall be the</hi> 15 <hi>day of</hi> No<g ref="char:EOLhyphen"/>vember.</p>
+               <p n="2">2. <hi>That there ſhall never Judge ſit at</hi> Lancaſter <hi>again.</hi>
+               </p>
+               <p n="3">3. <hi>That he muſt ere long ſhake the foundations of the great Synagogue, meaning the Parliament.</hi>
+               </p>
+               <p>Leonard Fell <hi>profeſſeth that Chriſt had never any body but his Church.</hi>
+               </p>
+               <p>Richard Huberthorn <hi>wrote, that Chriſts coming in the fleſh was but a figure.</hi>
+               </p>
+            </div>
+         </div>
+         <div type="answer">
+            <pb n="3" facs="tcp:118283:7"/>
+            <head>The Anſwer of <hi>George Fox,</hi> to the mat<g ref="char:EOLhyphen"/>ters falſely charged upon him, by the Petition and <hi>Schedule</hi> aforeſaid.</head>
+            <p>Object. <hi>
+                  <seg rend="decorInit">T</seg>Hat</hi> George Fox <hi>and</hi> James Nayler, <hi>are Perſons diſaffected to Religion.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> Whereas we are accuſed as Perſons diſaffected to Religion, it is falſe; for pure Religion we own in our ſouls, which is, <hi>to viſit the Father<g ref="char:EOLhyphen"/>leſs and relieve the Widows, and to keep our ſelves unſpotted from the world,</hi> and dwelling in purity; this we owne in our ſouls. <hi>But he that doth ſeem to be religious,
+<note place="margin">Jam. 1.26, 27. Mat. 23.27</note> and hath not power over his owne tongue, his Religion is vain;</hi> and that Religion we do deny: and all them that do profeſs the Scriptures in words, and live not the life of them but live in drunkenneſs and uncleanneſs, envy and maliciouſneſs;
+<note place="margin">J<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 5.31.</note> and all they that do profeſs Religion, and make a trade of the Scriptures, both Preiſts and People, we do deny.</p>
+            <p>Object. <hi>Diſaffected to the wholeſome laws of the Nati<g ref="char:EOLhyphen"/>on.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> Juſtice (the wholeſome law of God) we owne;
+<note place="margin">Rom. 13 4,</note> and this is a terrour to the unjuſt, unwholeſome, and unclean: and he that beares that Sword <hi>is a Miniſter of God;</hi>
+               <note place="margin">Iſa. 33.22,</note> and who doth not obey the law of God within, then that takes hold upon him with<g ref="char:EOLhyphen"/>out; but who doth obey the law of God within, it brings them from under the occaſions of all laws without: for it will not let man lye, nor let him be drunk, nor proud, nor follow oathes, nor curſed ſpeaking, nor whoredoms, quarreling, fighting, wrangling,
+<pb n="4" facs="tcp:118283:8"/>nor rayling: and every one who walketh in the law of God, de<g ref="char:EOLhyphen"/>nyes all that which is unwholeſome, and that which is according to the courſe of the world; and they be all of one heart, and are all one in unity, if ten thouſand; and have all one law written in their hearts; which thoſe that live in uncleanneſs caſt behind their backs; and yet they profeſs a law in words, but are not ſubject to the power of God: and ſuch are they who do accuſe their bre<g ref="char:EOLhyphen"/>thren which walk in the law of God; and yet they pretend juſtice; but their ſouls are not ſubject; for that ſoul that is ſubject to the higher power which is of God, denyes all filthineſs and corruption.</p>
+            <p>Object. <hi>That ſince their coming into this Countrey, they have broached Opinions tending to the deſtruction of the rela<g ref="char:EOLhyphen"/>tion of Subjects to their Magiſtrates, Wives to their Huſ<g ref="char:EOLhyphen"/>bands, Children to their Parents, Servants to their Maſters, Congregations to their Miniſters, and of a People to their God.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> We were moved to come into this Country, of the Lord; and the Lord did let us ſee, that he had a people here, be<g ref="char:EOLhyphen"/>fore we came in it. But as for broaching Opinions, We deny; but thoſe that profeſs truth, and walk in it up to God, we owne. Opinions do tend to break the relation of Subjects to their Ma<g ref="char:EOLhyphen"/>giſtrates, Wives to their Husbands, Children to their Parents, Ser<g ref="char:EOLhyphen"/>vants to their Maſters, Congregations to their Miniſters, and of a People to their God; but Opinions we deny; for they are with<g ref="char:EOLhyphen"/>out God; and there you are: and juſtice and purity is but one, and that we ſet up and owne: purity and walking in the Spirit, doth make a ſeparation from all uncleanneſs, and can <hi>have no fellowſhip with</hi> them who are <hi>unfruitful workers of darkneſs;</hi>
+               <note place="margin">Rom. 1.2.</note> but there is a ſeparation from them; the one hath fellowſhip with God, and the other hath fellowſhip with darkneſs, which be un<g ref="char:EOLhyphen"/>fruitful: the one is ſeparated to God, the other is ſeparated from God.</p>
+            <p>Object. <hi>Have drawn much people after them; many where<g ref="char:EOLhyphen"/>of, Men, Women, and Little-Children, at their meetings, are ſtrangely wrought upon in their bodies, and brought to fall, foam at the mouth, roar, and ſwell in their bellies.</hi>
+            </p>
+            <pb n="5" facs="tcp:118283:8"/>
+            <p>
+               <hi>Anſw.</hi> The meetings of the people of God,
+<note place="margin">1 Pet. 4.12 Pſa. 71.7.</note> were ever ſtrange to the world; for it was as though ſome ſtrange thing had happen<g ref="char:EOLhyphen"/>ed to the Saints, as ye read in the Scripture; which ſhew ye are in the ſame generation,
+<note place="margin">Act. 13.41.</note> wondring and ſtranging at the work of the Lord, deſpiſing, and caſting ſcandals, ſlanders, and falſe reports upon them: and where the works of God are now, they think them ſtrange things now, as was then who are alive in the fleſh.
+<note place="margin">Act. 9.4, 5.</note> It would be a ſtrange thing to ſee one now fall downe,
+<note place="margin">Dan. 10.9</note> as <hi>Paul</hi> fell downe and trembled, and as <hi>Daniel</hi> fell down and trembled; and to ſee one as <hi>Habakkuk his belly to tremble, and his lips to quiver,</hi>
+               <note place="margin">Hab. 3.16.</note> and as David, to <hi>lye roaring all the day long,</hi> who cryed till <hi>his ſight was grown dim, and his fleſh failed of fatneſs<g ref="char:punc">▪</g>
+               </hi> and till he could <hi>number his bones;</hi> and to ſee one as <hi>Iſaiah,</hi> to <hi>rent his garment and his mantle,</hi> and <hi>pluck his hair off his head, and off his beard,</hi> and <hi>ſit down aſtoniſhed:</hi>
+               <note place="margin">Iſa. 66.5.</note> and would it not be ſtrange to ſee ſuch an Aſſembly as came to <hi>Iſaiah<g ref="char:punc">▪</g>
+               </hi> which had all trembling hearts? <hi>Hear the word of the Lord, all ye that trem<g ref="char:EOLhyphen"/>ble at his word; Work out your ſalvation with fear and trem<g ref="char:EOLhyphen"/>bling: Before their faces the people ſhall be much pained:
+<note place="margin">Joel 2.6.</note> all faces ſhall gather blackneſs.</hi> The Prophets and Miniſters of God have all one Spirit (according to meaſure) and did encourage thoſe that did tremble; wherein it ſhews that you have not the ſame Spirit, but ſeek to perſecute, and fix ſcandals, and accuſe them falſly. The Miniſtery of truth ever drew from all the Miniſtry of the world, and from under all the laws of the world, up to God, and from all the Gods of the earth and then they witneſſed that the Lord was their Law-giver, the Lord was their King, the Lord was their Judge.</p>
+            <p>
+               <hi>Object.</hi> George Fox <hi>profeſſed and avowed that he was equal with God.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> It was not ſo ſpoken, as <hi>George Fox</hi> was equal with God: but the Father and the Son is one:
+<note place="margin">John 14.9, 10.</note> 
+               <hi>I and my Father are one;</hi> and where the ſame is revealed, this is witneſſed: but where the ſame is not made manifeſt and revealed, Chriſt is perſecuted; for the world knows him not. <hi>Let the ſame minde be in you,
+<note place="margin">Phil. 2.5, 6, 7.</note> that was alſo, in Chriſt Jeſus, who being in the form of God, thought it not robbery to be equal with God, and yet made him<g ref="char:EOLhyphen"/>ſelf
+<pb n="6" facs="tcp:118283:9"/>of no reputation:</hi> And this I witneſs to be fulfilled; for the ſame Spirit where it is, is equal with God: for <hi>he that ſanctifieth, and they that are ſanctified, are all of one;</hi> and it is God that ſanctifieth:
+<note place="margin">Heb 2.11. Jude 1. Joh. 1.1. 1 Cor. 15.47, 48. 1 Joh. 3.7.</note> 
+               <hi>He that hath the Word hath God, for God is the Word; and our fellowſhip is with God. There is a natural man, and there is a ſpiritual man: the the firſt is of the earth earthly, the ſecond is the Lord from heaven: the new man, which is created after God in righteouſneſs and true holineſs; and he that doth righteouſneſs is righteous, even as he is righ<g ref="char:EOLhyphen"/>teous.</hi> And this I witneſs, what the Scripture ſaith, <hi>Let no man deceive you.</hi>
+            </p>
+            <p>Object. <hi>He profeſſeth himſelf to be the eternal Judge of the world.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> He that was a Miniſter of God, ſaid, <hi>that the Saints ſhould judge the world,</hi>
+               <note place="margin">1 Cor. 6.2, 3.</note> yea, <hi>Angels:</hi> herein they do ſhew them<g ref="char:EOLhyphen"/>ſelves to be no Miniſters of God, who ſeek to perſecute them who are judged of God, and juſtified by him; where <hi>judgement is brought forth unto victory,</hi>
+               <note place="margin">Mat. 12.20</note> and ſet in the earth; and that which is eternal, hath judged all the carnal nature in himſelf; and where it is judged, thereis no unity with it, where it is alive; and he that hath not true judgement,
+<note place="margin">Mat. 5.13, 14.</note> and Salt in himſelf to ſavour withall, is good for nothing, and he cannot endure that Chriſt ſhould ſpeak where he is made manifeſt. <hi>I am the way,</hi> ſaith Chriſt; Chriſt is but one in all his Saints,
+<note place="margin">1 Cor. 11.3 Mar. 13.11</note> and he ſpeaks in them; but he doth not ſay that <hi>George Fox</hi> is Chriſt: <hi>I am the way, the truth, &amp; the life:</hi> Chriſt is the light, and ye are the light, and Chriſt liveth in you, and Chriſt is the head of the man; and it is the Spirit of the Fa<g ref="char:EOLhyphen"/>ther that ſpeaketh in you, and ſpoke in Chriſt, and he is but one in in all his Saints:
+<note place="margin">Iſa. 5.20.</note> without are many Chriſts; <hi>Lo here, and lo there;</hi> but <hi>know you not that Chriſt is in you except ye be Reprobates? and if Chriſt be in you, the body is dead becauſe of ſin;</hi> and there Chriſt Jeſus ſpeaks, <hi>the ſame Chriſt to day, yeſterday, and for ever.</hi> And thy judgement, which is not eternal, is carnal; and with evil thoughts thou judgeſt: thou <hi>putteſt darkneſs for light, and light for darkneſs;</hi> and here thou ſheweſt thy judge<g ref="char:EOLhyphen"/>ment to be carnal, and no Miniſter of God, but a <hi>Miniſter of the Letter,</hi> and <hi>not of the Spirit;</hi> for the Miniſters of the Spirit
+<pb n="7" facs="tcp:118283:9"/>have true judgement, and did impriſon none, nor perſecute, as you do: but it is, that fools may utter forth their folly.</p>
+            <p>Object. <hi>He ſaid he was the way, the truth, the life.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> The old man cannot endure to hear the new man ſpeak,
+<note place="margin">John 14.6.</note> which is Chriſt; and Chriſt is the way: and if Chriſt be in you, muſt not he ſay. <hi>I am the way, the truth, and the life?</hi>
+               <note place="margin">John 10.4.</note> Now if Antichriſt ſpeak, he is owned of the world; but he cannot wit<g ref="char:EOLhyphen"/>neſs it; while the old man raignes, the voice of God is not known, nor Chriſt himſelf to ſpeak in man, but Chriſts ſheep know his voyce.</p>
+            <p>Object. <hi>He ſaid, Whoſoever took a place of Scripture, and made a Sermon of it, or from it, was a Conjurer, and his preach<g ref="char:EOLhyphen"/>ing was Conjuration.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> He that puts the Letter for the light,
+<note place="margin">John 8.12.</note> when the Letter ſaith that Chriſt is the light, he is blind; and they that ſay the Let<g ref="char:EOLhyphen"/>ter and the Spirit are inſeparable, when the Spirit ſaith the Letter is death, and killeth, and all that do ſtudy to raiſe a living thing out of a dead, to raiſe the Spirit out of the Letter, are Conju<g ref="char:EOLhyphen"/>rers, and draw points, and reaſons,
+<note place="margin">Jer. 23.16. Jer. 27.9, 10.</note> and ſo ſpeak a divination of their own brain: they are Conjurers and Diviners, and their teach<g ref="char:EOLhyphen"/>ing is from Conjuration, which is not ſpoken from the mouth of the Lord and the Lord is againſt all ſuch; and who are of God, are againſt all ſuch; for that doctrine doth not profit the people at al, for it ſtands not in the councel of God, but is a doctrine of the Devil, and draws people from God; but he that ſpeaks from the mouth of the Lord, turnes people from their wickedneſs:
+<note place="margin">Heb. 8.11.</note> but that Mini<g ref="char:EOLhyphen"/>ſtery which God hath not ſent, and that Aſſembly muſt be diſaffect<g ref="char:EOLhyphen"/>ed: for the Lord is coming to teach his people himſelf, by his Spi<g ref="char:EOLhyphen"/>rit.</p>
+            <p>Object. George Fox <hi>ſaid the Scripture was carnal.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> The Letter of the Scripture is carnal, and the Letter is death, and <hi>killeth, but the Spirit giveth life,</hi>
+               <note place="margin">Heb. 7.16.</note> which was in them that gave forth the Scriptures and that I witneſs, which is eternal and not carnal: for the <hi>Jewes</hi> which had the Letter, perſecuted Jeſus Chriſt the Subſtance: and ſo do you now, which have the Letter, and not the Subſtance; there were Miniſters of the Letter then, and Miniſters of the Spirit, ſo is there is now; the ſame
+<pb n="8" facs="tcp:118283:10"/>Chriſt being made manifeſt,
+<note place="margin">Col. 1.27.</note> is unknown to the world; for the <hi>whole world lyeth in wickedneſs;</hi> and Chriſt Jeſus is a Myſtery to the world, and is hid, though you may profeſs him, becauſe the Letter ſpeaketh of him;
+<note place="margin">1 Joh. 3.8.</note> but ye perſecute him where he is made manifeſt; and where he is made manifeſt, the works of the De<g ref="char:EOLhyphen"/>vil are deſtroyed, and there he ſpeaks, and is King, and is <hi>the way,</hi> and <hi>is the truth,</hi>
+               <note place="margin">1 Joh. 5.12. Rom. 8.11. 1 Cor. 6.17 2 Cor. 6.16.</note> and is <hi>the life;</hi> and <hi>he that hath the Son, hath life,</hi> and <hi>he that hath not the Son, hath not life;</hi> and he that hath the ſame Spirit that raiſed up Jeſus Chriſt, is equal with God: and the Scripture ſaith, that God will dwell in man, and walk in man; as Jeſus Chriſt, which is the myſtery, hath paſſed before, ſo the ſame Spirit takes upon it the ſame ſeed, and is the ſame where it is made manifeſt: According to the fleſh, I am the ſon of <hi>Abraham;</hi> according to the Spirit, the ſon of God, ſaith Chriſt.
+<note place="margin">Col. 1.27. Heb. 2.16.</note> All the plotting of the Prieſts is, and ever was, againſt Chriſt where he is made manifeſt: <hi>and the Beaſt ſhall make war with the Saints, and with the Lamb;</hi> but the Lamb ſhall get the victory: praiſes, praiſes be to our God for ever, for evermore.</p>
+            <p>Object. Richard Hubethorne <hi>writ, that Chriſts coming in the fleſh, was but a figure.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> Chriſt in his people, is the ſubſtance of all figures, types, and ſhadows, fulfilling them in them, and ſetting them free from them; but, as he is held forth in the Scripture-Letter without them, and in the fleſh without them, he is their example or figure, which is both one, that the ſame things might befulfilled in them, that was in Chriſt Jeſus:
+<note place="margin">1 Pet. 2.21 1 Pet. 4.1.</note> 
+               <hi>for even hereunto were ye called, becauſe Chriſt hath ſuffered for us, leaving us an example that we ſhould follow his ſteps: foraſmuch as Chriſt hath ſuffered for us, arm your ſelves likewiſe with the ſame mind.</hi>
+               <note place="margin">1 Pet. 1.15.</note> Chriſt was our example in ſuffering, and in holineſs; and as he which hath called you is holy,
+<note place="margin">Joh. 13.15.</note> ſo be ye holy in all manner of converſation, becauſe it is written, <hi>Be ye holy as I am holy.</hi> He is our example in humility: <hi>I have given you an example (ſaith Chriſt) that ye ſhould do even as I have done unto you;</hi> And <hi>as he is, ſo are we in this world;</hi> He is <hi>our forerunner, Captain of our Salvation,</hi> and in all things our example.
+<note place="margin">Tit. 16.</note> 
+               <hi>As they have done unto me, ſo ſhall they do unto you.</hi> But all they who have not Chriſt dwelling in
+<pb n="9" facs="tcp:118283:10"/>them go about to perſecute him in all them in whom he is made manifeſt; they neither follow him as an example themſelves, nor ſuffer others to follow him as an example and walk in the ſame ſteps; but deny him both as the ſubſtance and example, of his people: but they who are taught of him, do confeſs him both as he is the ſubſtance of all things, and their example in all things; for <hi>without me ye can do nothing,</hi> ſaith Chriſt: and it is ſo I wit<g ref="char:EOLhyphen"/>neſs it.</p>
+            <p>And as for <hi>James Millner,</hi> though his minde did run out from his condition, and from minding that light of God which is in him, whereby the world takes occaſion to ſpeak againſt the truth, and many friends ſtumble at it; yet there is a pure ſeed in him.</p>
+            <p>Object. Leonard Fell <hi>ſaid that Chriſt had no Body but his Church.</hi>
+            </p>
+            <p>Anſw. <hi>There is one Body, and one Spirit,
+<note place="margin">Eph. 4.4. Col. 1.18. 2 Cor. 5.19</note> even as ye are call<g ref="char:EOLhyphen"/>ed into one hope of your calling; and Chriſt Jeſus is the head of the Body the Church,</hi> and ye are made free from ſin by the Bo<g ref="char:EOLhyphen"/>dy of Chriſt; and Chriſt came to <hi>redeem his Church; God was in Chriſt reconciling the world to himſelf,</hi> for his body's ſake,
+<note place="margin">Col. 1.24. Eph. 5.30, 32. Eph. 22.23</note> which is his Church. <hi>For we are members of his Body, of his Fleſh, and of his Bones: this is a great Myſtery: but I ſpeak con<g ref="char:EOLhyphen"/>cerning Chriſt and his Church. And hath put all things un<g ref="char:EOLhyphen"/>der his feet, and gave him to be the head over all things to the Church, which is his body, The fulneſs of him that filleth all in all. In whom alſo we are builded up together, for an habitati<g ref="char:EOLhyphen"/>on of God through the Spirit.</hi>
+            </p>
+            <closer>
+               <signed>W W.</signed>
+            </closer>
+         </div>
+         <div type="text">
+            <pb n="10" facs="tcp:118283:11"/>
+            <head>More Objections againſt <hi>George Fox,</hi> charged upon him, by the Contrivers of the foreſaid <hi>Petition;</hi> and An<g ref="char:EOLhyphen"/>ſwered by him, as followeth.</head>
+            <p>Object. 1. <hi>THat he did affirm that he had the Divinity eſſentially in him.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi>
+               <note place="margin">2 Cor. 6.1. Eph. 4.6. 2 Pet. 1.4.</note> For the word <hi>eſſential,</hi> it is an expreſſion of their own: but that the Saints are <hi>the Temples of God</hi> and God doth <hi>dwell in them,</hi> that the Scriptures do witneſs; and if God dwell in them, then the Divinity dwels in them; and the Scripture ſaith, <hi>Ye ſhall be partakers of the divine nature:</hi> and this I witneſs; but where this is not, they cannot witneſs it.</p>
+            <p>Object. 2. <hi>That both Baptiſm and the Lords Supper are unlawful.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> As for that word <hi>unlawful,</hi> it was not ſpoken by me; but, the Baptiſm of Infants I deny; and there is no Scripture that ſpeaks of a Sacrament, but that Baptiſm that is into Chriſt, with <hi>one ſpirit,
+<note place="margin">Gal. 3.27.</note> into one body;</hi> that I confeſs according to Scripture: and the Lords Supper I confeſs, and that the bread the Saints break,
+<note place="margin">Iob. 6.53, 55.</note> is the body of Chriſt; and that cup which they drink, is the blood of Chriſt; this I witneſs.</p>
+            <p>Object. 3. <hi>He did diſſwade men from reading the Scrip<g ref="char:EOLhyphen"/>tures, telling them that it is carnal.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> For diſſwading men from reading the Scriptures, that is falſe, for they were given to be read as they are, but not to make a Trade upon;
+<note place="margin">1 Cor. 2.10, 16.</note> the <hi>Letter</hi> is carnal, and <hi>killeth;</hi> but that which gave it forth, is ſpiritual, eternal, and giveth life; and this I wit<g ref="char:EOLhyphen"/>neſs.</p>
+            <p>Oject. 4. <hi>That he was equal with God.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi>
+               <note place="margin">Heb. 2.11.</note> That was not ſo ſpoken; but that <hi>He that ſanctifi<g ref="char:EOLhyphen"/>eth, and they that are ſanctified, are of one,</hi> and the Saints are
+<pb n="11" facs="tcp:118283:11"/>all one in the Father and the Son, of his fleſh and of his bone; this the Scripture doth witneſs: And <hi>ye are the ſons of God;</hi>
+               <note place="margin">Eph. 5.30.</note> and the Father and the Son are one; and <hi>they that are joyned to the Lord, are one ſpirit; and they that are joyned to an Harlot are one fleſh.</hi>
+            </p>
+            <p>Object. <hi>That God taught deceit.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> That is falſe, and was never ſpoken by me; God is pure.</p>
+            <p>Object. <hi>That the Scriptures are Antichriſt.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> That is falſe; but that they which profeſs the Scriptures, and live not in the life and power of them, as they did that gave them forth, that I witneſs to be Antichriſt.</p>
+            <p>Object. <hi>That he was the Judg of the world.</hi>
+               <note place="margin">1 Cor. 6.2, 3.</note>
+            </p>
+            <p>
+               <hi>Anſw.</hi> That <hi>the Saints ſhall judge the world,</hi> the Scripture witneſs it<g ref="char:punc">▪</g> whereof I am one, and I witneſs the Scripture fulfilled.</p>
+            <p>Object. <hi>That he was as upright as Chriſt.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> Thoſe words were not ſo ſpoken by me;
+<note place="margin">1 Joh. 4.17. 2 Cor. 5.21. Ioh. 17.21, 22. Eph. 4.11, 12, 13.</note> but that <hi>as he is, ſo are we in this preſent world;</hi> That the Saints are made <hi>the righteouſneſs of God;</hi> That the Saints are one in the Father and the Son, that <hi>we ſhall be like him,</hi> 1 Joh. 3.2. and that all teaching which is given forth by Chriſt, is to bring the Saints to perfection, even <hi>to the meaſure of the ſtature, of the fulneſs of Chriſt;</hi> This the Scripture doth witneſs, and this I witneſs. Where Chriſt dwels, muſt not he ſpeak in his Temple?</p>
+         </div>
+         <div type="queries">
+            <pb n="12" facs="tcp:118283:12"/>
+            <head>Quaeries propounded to <hi>George Fox,</hi> by ſome of the Contrivers of the Peti<g ref="char:EOLhyphen"/>tion, and by him Anſwered.</head>
+            <p>Querie. <hi>WHether there be one individual God, di<g ref="char:EOLhyphen"/>ſtinguiſhed into the Father, Son and Ho<g ref="char:EOLhyphen"/>ly Ghoſt, or not?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> Herein thou wouldeſt know, whether God be indivi<g ref="char:EOLhyphen"/>dual, yea or no which is but a buſie minde; for had'ſt thou the witneſs in thy ſelf, thou wouldſt know what he is; but the Hea<g ref="char:EOLhyphen"/>then know not God, and all that know him not, are Heathen, living in the wicked imaginations of their own hearts; and that is thy condition: For <hi>God is a Spirit,</hi> and <hi>none know him, but the Son, and he to whom the Son is revealed;</hi> the Son and Word is one. <hi>He that hath ears to hear, let him hear what the Spirit ſaith;</hi> for thou, natural man, thou know'ſt not the things of God.</p>
+            <p>Qu. <hi>Whether a believer be juſtified by Chriſts righteouſ<g ref="char:EOLhyphen"/>neſs imputed, yea, or no?</hi>
+            </p>
+            <p>
+               <hi>Anſw. He that believeth, is born of God;</hi> and he that is born of God, is juſtified by Chriſt alone, without imputation.</p>
+            <p>Qu. <hi>Whether he that believeth that Chriſt hath taken a<g ref="char:EOLhyphen"/>way his ſin, is clean without ſin in this life, as Chriſt himſelf, or not?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> He that believeth, is born of God; and <hi>he that is born of God ſins not, neither can he ſin, becauſe his ſeed remaineth in him; as he is, ſo are we, in this preſent evil world.</hi>
+            </p>
+            <p>Qu. <hi>Whether a believer be without all ſin in this life, or not?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> Chriſt being made manifeſt, is made manifeſt to take away ſin, and <hi>in him is no ſin at all; he that abideth in him, ſins not; he that ſins, is of the Devil, and hath not ſeen him,
+<pb n="13" facs="tcp:118283:12"/>neither known him: herein are the children of God made ma<g ref="char:EOLhyphen"/>nifeſt, and the children of the Devil.</hi> All you that read theſe Queries, read theſe things in your ſelves, whether ye be the children of God, or the children of the Devil; and whether ye underſtand what ye write, yea, or no.</p>
+            <p>Qu. <hi>Whether his works, as well as his perſon, be perfectly holy and good, or no?</hi>
+            </p>
+            <p>
+               <hi>Anſw. A good tree cannot bring forth evil fruit;</hi> and <hi>if the root be holy, the branches will be holy alſo;</hi> and <hi>every one that doth righteouſneſs, is righteous, even as he is righteous.</hi> But as for that perſon, it is a buſie minde in thee, that askſt thou knowſt not what; for <hi>God is no reſpecter of perſons:</hi> he that reſpect<g ref="char:EOLhyphen"/>eth perſons, commits ſin; and he that commits ſin, tranſgreſſeth the Law.</p>
+            <p>Qu. <hi>Whether Saints in this life, without any addition here<g ref="char:EOLhyphen"/>after, are perfectly juſt, perfectly holy, compleatly glorious, in this life, and are not capable of any addition after death, in the leaſt degree, but only of manifeſtation?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> If that thou know'ſt what a Saint is, thou would'ſt know a Saints life, for they paſſed thorow death to life; but thou art yet alive to ſin, and dead to righteouſneſs; ſee if it be not ſo: but he that is dead to ſin, is alive to righteouſneſs, and lives in God, and God in him. <hi>The Lord is our righteouſneſs,</hi> and he ſaith, <hi>Be ye holy, as I am holy:</hi> for, <hi>without holineſs, no man ſhall ſee the Lord. Be not deceived. God will not be mocked.</hi> Thou hy<g ref="char:EOLhyphen"/>pocrite, diſſemble not with him: he that is perfectly holy, is per<g ref="char:EOLhyphen"/>fectly juſt: where this is revealed, there needs no addition; for <hi>the man of God is perfect.</hi>
+            </p>
+            <p>Qu. <hi>Whether the two Sacraments, Baptiſm, and the break<g ref="char:EOLhyphen"/>ing of Bread, ought neceſſarily to continue in the Church, or not?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> Thou askeſt thou know'ſt not what, concerning two Sacraments, which there is no Scripture for: Thou askeſt a queſti<g ref="char:EOLhyphen"/>on, which is an addition to the Scripture; and thou that doeſt add, the plagues of God are added to thee. Who come into the true Church, are <hi>baptized with one Spirit, into one body;</hi> but as for ſprinkling Infants, there's no Scripture for it: I deny it in
+<pb n="14" facs="tcp:118283:13"/>the true Church of God there is no talk of ſuch carnal things. Thou Sot, the bread which the Saints break, is of the body of Chriſt; he is <hi>the bread of life.</hi> The Church is not the ſteeple<g ref="char:EOLhyphen"/>houſe, but the Church is in God, and thoſe that eat the bread of life, live for ever: the Church is in God, and the bread of life is there; and it ſhall continue for ever.</p>
+            <p>Qu. <hi>Whether Chriſt in the fleſh, be a figure or not; and if a figure, how, and in what?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> Chriſt is the ſubſtance of all figures; and his fleſh is a figure; for every one paſſeth through the ſame way as he did, who comes to know Chriſt in the fleſh; <hi>there muſt be a ſuffering with him, before there be a rejoycing with him.</hi> Chriſt is an example for all to walk after; and if thou knew'ſt what an exam<g ref="char:EOLhyphen"/>ple is, thou wouldſt know what a figure is, to come up to the ſame fulneſs.</p>
+            <p>Qu. <hi>Whether there be any heaven or hell, for the Elect or Reprobate after death, but in man in this life, or not?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> There is no knowledge of Heaven or Hell; but through death <hi>the wicked ſhall be turned into hell, and all them that forget God</hi> there to be tormented; there is a hell, thou ſhalt finde it: Heaven is Gods Throne; and heavenly notions within ſhall be ſhaken; for God is pure, and nothing that is unclean ſhall ſtand before him; and he hath ſaid he will dwell in man.</p>
+            <p>Qu. <hi>Whether the miniſtration of the Miniſtery by man, is to continue till the end, or not?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> The miniſtration of the world, is the Miniſtery of man, and doth not lead to an end, but keeps in time, and that muſt have an end; for it is not of God. The Miniſtery of God, is to draw people up to himſelf; but that is <hi>not of man, nor by man, nor ac<g ref="char:EOLhyphen"/>cording to man;</hi> for <hi>Paul</hi> was <hi>made a Miniſter according to the will of God;</hi> who had not received it of man, neither was it taught him of man; and was a Miniſter of the Spirit: but the Mi<g ref="char:EOLhyphen"/>niſters of the world receive their learning at <hi>Oxford</hi> and <hi>Cam<g ref="char:EOLhyphen"/>bridge,</hi> and are taught of men, and ſpeak a divination of their own brain, which is conjuring; and bewitch the people with thoſe things which are carnal: as, to ſprinkle Infants, and tell them of a Sacrament which there is no Scripture for; and ſaying they are
+<pb n="15" facs="tcp:118283:13"/>the Miniſters of Chriſt, and act thoſe things which he forbids, as, to <hi>have the chiefeſt place in the Aſſemblies, the uppermoſt room at feaſts,</hi> the <hi>greetings in markets, and to be called of men Maſters;</hi> and <hi>with pretence make long prayers,</hi> which Chriſt forbids; and profeſs and ſay, they are the Miniſters of Chriſt: wherein they ſhew themſelves to be Antichriſts. And ſee if thou do not uphold theſe Antichriſts, and ſay they are the Mi<g ref="char:EOLhyphen"/>niſters of Chriſt.</p>
+            <p>Qu. <hi>Whether the written Word, I mean the Scriptures, be the power of God unto ſalvation, to every one that believes, or not?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> The written Word is not the power of God, nor the Scriptures are not the ſalvation; but he that doth believe, hath the life of them. Who is born of God, ſhall never die, as it is written; he that believeth, is born of God; and he that is born of God, hath the witneſs in himſelf, that God is the cauſe of mans ſalvation, and not the Scripture, nor the Letter.</p>
+         </div>
+         <div type="text">
+            <head>
+               <hi>James Nayler's</hi> Anſwer, and De<g ref="char:EOLhyphen"/>claration, touching ſome things charged upon him, by the men aforeſaid.</head>
+            <p>HAving heard of divers untruths caſt upon me by ſome of the Prieſts in their high places, though I ſtand only to the Lord in reſpect of my ſelf; yet leſt any that love the truth ſhould be led on, by theſe falſe reports to <hi>ſpeak evil of theſe things they know not;</hi> I ſhall lay open the truth, as it is revealed in me, touch<g ref="char:EOLhyphen"/>ing thoſe things whereof I have been falſly accuſed.
+<note place="margin">Jude 1<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note>
+            </p>
+            <p>Firſt, Concerning Jeſus Chriſt, That he is the eternal Word of
+<pb n="16" facs="tcp:118283:14"/>God,
+<note place="margin">Revel. 19.13. 1 Joh. 1.2, 3, 4, 5. Joh. 1.14.</note> 
+               <hi>by whom all things were made,</hi> and are upholden; which were before all time, but manifeſted to the world in time, for the recovery of loſt man: Which <hi>Word became fleſh, and dwelt a<g ref="char:EOLhyphen"/>mongſt</hi> the Saints; who is <hi>the ſame yeſterday to day, and for ever;</hi> who did and doth dwell in the Saints; who ſuffered, and roſe again, and aſcended into heaven, and is ſet at the right hand of God;
+<note place="margin">Eph. 1.20.</note> to whom <hi>all power is given, in heaven and in earth;</hi> who filleth all places, is the light of the world, but known to none, but to thoſe that receive and follow him,
+<note place="margin">Joh. 8.12.</note> and thoſe he leads up to God, out of all the Wayes, Works, and Worſhips of the world, by his pure light in them,
+<note place="margin">2 Theſ. 2.8</note> whereby he reveals <hi>the man of ſin;</hi> and by his power caſts him out and ſo prepares the bodies of the Saints a fit Temple for the pure God to dwel in; with whom dwels no unclean thing: and thus he reconciles God and man; and the image of God,
+<note place="margin">1 Cor. 3.16, 17.</note> which is in purity and holineſs, is renewed: and the image of Satan, which is all ſin and uncleanneſs, is defaced: and none can witneſs Redemption,
+<note place="margin">2 Cor. 5.18, 19. Col. 3.10.</note> further then Chriſt is thus revealed in them, to ſet them free from ſin: which Chriſt, I witneſs to be revealed in me in meaſure, <hi>Gal.</hi> 1.16. 2 <hi>Cor.</hi> 13.5. <hi>Coloſ.</hi> 1.27.</p>
+            <p n="2">2. <note place="margin">2 Pet. 1.20, 21.</note> Concerning the Scriptures, That they are a true Declara<g ref="char:EOLhyphen"/>tion of that Word which was in them that ſpoke them forth, and are of <hi>no private interpretation,</hi> but were given forth to be read and fulfilled in the Saints,
+<note place="margin">Rev. 22.18.</note> as they were given forth by the Holy Ghoſt, without adding or diminiſhing; and were not given forth for men to make a Trade on to get mony by: but as they are, they are <hi>profitable for Doctrine,
+<note place="margin">2 Tim 3.16, 17.</note> for Reproof, for Correction, for In<g ref="char:EOLhyphen"/>ſtruction in righteonſneſs, that the man of God may be perfect, thorowly furniſhed unto every good work.</hi> But they who trade in the Letter, and are ignorant of the Myſtery, deny all perfection; and none can rightly underſtand the Scriptures, but they who read them with the ſame Spirit that gave them forth;
+<note place="margin">1 Cor. 2.14, 15.</note> for <hi>the natural man underſtands not the things of God: for they are ſpiritual<g ref="char:EOLhyphen"/>ly diſcerned.</hi>
+            </p>
+            <p n="3">3. Concerning Baptiſm: The true Baptiſm is that of the Spirit, <hi>with the Holy Ghoſt, and with fire:</hi> Baptized by one Spirit, in<g ref="char:EOLhyphen"/>to one Body; not <hi>the waſhing away the filth of the fleſh, but
+<pb n="17" facs="tcp:118283:14"/>the anſwer of a good conſcience towards God by the reſurrecti<g ref="char:EOLhyphen"/>on of Jeſus Chriſt;</hi>
+               <note place="margin">Acts 1.5.</note> without which, no other Baptiſm can ſave us,
+<note place="margin">Gal. 3.27.</note> they being but figures or ſhadows; but this Baptiſm of Chriſt is the ſubſtance, whereby we are Baptized into his death; and <hi>thoſe that are baptized into Chriſt have put on Chriſt.</hi>
+            </p>
+            <p n="4">4. Concerning the Lords Supper:
+<note place="margin">Matth. 26.26, 28. Joh. 6.51, 53, 54, 55, 56. 1 Cor. 11.24, 25. Col. 2.10.</note> The true Supper of the <hi>Lord</hi> is the Spiritual eating and drinking of the fleſh and blood of Chriſt, Spiritually; which the Spiritual man only eateth, and is thereby nouriſhed up unto eternal life: without which eating, there can be no life in the creature, profeſs what you will; And all who eat of this bread, and drink of this cup, have real communion in Chriſt the head, and alſo one with another, as members; and are of one heart, and one minde, a compleat body in Chriſt. Now the world, who take only the outward ſignes,
+<note place="margin">1 Cor. 11.27, 28, 29.</note> and are not brought in <hi>diſcerning of the Lords body, eat and drink damnation to themſelves,</hi> and become <hi>guilty of the body and blood of Chriſt;</hi> and calls this a Communion, but lives in envy, ſtrife, and debate, fighting, and going to Law one with another, for earthly things.</p>
+            <p n="5">5. Concerning the Reſurrection:
+<note place="margin">Joh. 5.29.</note> That all ſhall ariſe to give an account and <hi>receive</hi> at the laſt day <hi>according to their works,
+<note place="margin">1 Cor. 15.38. 1 Cor. 15.42, 43, 44.</note> whether good or evil.</hi> Theſe bodies that are duſt, ſhall turn to duſt, <hi>but God ſhall give a body as pleaſeth him; that which is ſown in corruption, ſhall be raiſed in incorruption; it is ſown a natural body, it is raiſed a ſpiritual body;
+<note place="margin">Phillip. 3.21. Rev. 2.6.</note> and as we have born the Image of the earthly, ſo we ſhall bear the Image of the heavenly:</hi> but <hi>fleſh and blood cannot inherit the Kingdom of heaven; neither doth corruption inherit incorruption;</hi> for we muſt be <hi>changed.</hi>
+               <note place="margin">1 Cor. 15.20.</note> But they who cannot witneſs the firſt Re<g ref="char:EOLhyphen"/>ſurrection within themſelves, know nothing of the ſecond, but by hear-ſay; and therefore, ſay ſome of your Teachers, that Chriſt is in Heaven with a carnal body. Now that Chriſt,
+<note place="margin">1 Cor. 15.47.</note> who is the firſt fruits, ſhould be in Heaven with a carnal body, and the Saints with a ſpiritual body, is not proportionable.</p>
+            <p n="6">6. Concerning Magiſtracy: It is an Ordinance of God, Or<g ref="char:EOLhyphen"/>dained <hi>for the puniſhment of evil doers, and an incouragement for them that do well;</hi> Where Juſtice and Righteouſneſs is the
+<pb n="18" facs="tcp:118283:15"/>head, and ruleth without partiality, that Land is kept in peace; and thoſe that judge for the Lord, I honor as my own life, not with a flattering honor, putting off the hat and bowing of the knee, which is the honor of the world <hi>having mens perſons in admira<g ref="char:EOLhyphen"/>tion becauſe of advantage</hi> for ſelf ends;
+<note place="margin">Jude 16.</note> but from my heart, for conſcience ſake, as to the power which is of God, and not to mens perſons; for the Scripture ſaith, he that reſpects perſons, commits ſin,
+<note place="margin">Jam. 2.9. Jam. 2.1, 2, 3, 4.</note> and is convinced of the Law, as a tranſgreſſor; and the Apo<g ref="char:EOLhyphen"/>ſtle <hi>Iames</hi> commands the Saints <hi>not to have the faith of our Lord Jeſus Chriſt the Lord of glory, with reſpect of perſons; for</hi> ſaith he <hi>ſuch are partial in themſelves, and become Judges of evil thoughts.</hi>
+               <note place="margin">Rom. 13.1, 2.</note> And ſaith <hi>Paul, Let every ſoul be ſubject to the higher power;</hi> for, ſaith he <hi>there is no power but of God: the powers that be, are ordained of God; and</hi> that <hi>whoſoever reſiſteth the power, reſiſteth the Ordinance of God:</hi> and ſaith, <hi>We muſt needs be ſubject,
+<note place="margin">Rom. 13.5.</note> for Conſcience ſake:</hi> and therefore, though the Prophets were often ſent by the Lord, to pronounce Judgment againſt unjuſt men, who had the power committed to them and did not judg for God,
+<note place="margin">Hoſea 5.12</note> but for ſelf-ends; yet they ne<g ref="char:EOLhyphen"/>ver attempted any violence againſt them but uſed all means to per<g ref="char:EOLhyphen"/>ſwade them to <hi>love mercy,
+<note place="margin">Mica. 6.8.</note> do juſtice, &amp; walk humbly with God,</hi> that they might be eſtabliſhed and the wrath of God turned from them; for thoſe that be of God, cannot rejoyce in the ſufferings of any, but would have all to turne, and finde mercy.</p>
+            <p n="7">7. Concerning the Miniſtery: The true Miniſtery of Jeſus Chriſt have always been,
+<note place="margin">2 Pet. 1.21 Eph. 4.7.8, 11.</note> and are ſtill, ſuch as come not by the will of man, but by the will of God; neither are they fitted for the work, by any thing of man, but by God alone: for the true Mi<g ref="char:EOLhyphen"/>niſtery is the gift of Jeſus Chriſt, and needs no addition of hu<g ref="char:EOLhyphen"/>mane help and learning;
+<note place="margin">1 Cor. 12.7. 1 Pet. 4.10, 11.</note> but as the work is ſpiritual, and of the Lord; ſo they are ſpiritually fitted only by the Lord, and there<g ref="char:EOLhyphen"/>fore he chuſed Herdſ-men. Fiſher-men, and Plow-men, and ſuch<g ref="char:EOLhyphen"/>like; and as he gave them an immediate call, without the leave of man; ſo he fitted them immediately, without the help of man; and as they <hi>received</hi> the gift freely,
+<note place="margin">Matth. 10.8.</note> ſo they were to <hi>give freely;</hi> And whenever they found any of the falſe Miniſtery, that taught for hire, they cryed out againſt them, and pronounced woes a<g ref="char:EOLhyphen"/>gainſt
+<pb n="19" facs="tcp:118283:15"/>them, and ſhewed them that they <hi>lay in iniquity,
+<note place="margin">Act. 8.20 Joh. 10.13 Mic. 3.10.</note> becauſe they thought that the gift of God could be bought and ſold for money:</hi> and Chriſt calls them <hi>hirelings,</hi> and ſaith they <hi>care not for the ſheep:</hi>
+               <note place="margin">Jer. 5.30, 31. Jer. 6.13.</note> and <hi>Micah</hi> cryes out againſt the Prieſts that taught <hi>for</hi> hire; and (ſaith he) <hi>they build up Sion with blood, and Jeruſalem with iniquity:</hi> and <hi>Jeremiah</hi> cryed out againſt the Prieſts in his dayes, that <hi>bare rule by their means</hi> and calls it <hi>a horrible thing;</hi> and ſaith, that <hi>from the leaſt of them to the greateſt: they are all given to covetouſneſs:</hi>
+               <note place="margin">Iſa. 56.10, 11.</note> And <hi>Iſaiah</hi> cryes out againſt thoſe in his dayes, and calls them <hi>greedy Dogs, that can never have enough;</hi> and ſaith he <hi>they all look for their gain from their quarter.</hi> And <hi>Peter</hi> ſaith of ſuch as ſhould come,
+<note place="margin">2 Pet. 2.3.</note> that they <hi>through covetouſneſs ſhould make merchandiſe</hi> of the people;
+<note place="margin">2 Pet. 2.14, 15.</note> and ſaith they have hearts exerciſed with covetous pra<g ref="char:EOLhyphen"/>ctiſes, who <hi>have forſaken the right way, and have followed the way of</hi> Balaam, <hi>who loved the wages of unrighteouſneſs:</hi>
+               <note place="margin">2 Cor. 11 15.</note> And <hi>Iude</hi> cryes <hi>Wo unto them, for they go on in the way of</hi> Cain in his murder,
+<note place="margin">Jude 11.</note> and <hi>run greedily after the error of</hi> Balaam <hi>for re<g ref="char:EOLhyphen"/>ward.</hi> But thoſe that were ſent out by Chriſt,
+<note place="margin">1 Cor. 9.16, 17, 18</note> counted it their gain to <hi>make the Goſpel without charge;</hi> neither eve<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> had they a<g ref="char:EOLhyphen"/>ny ſet means, but went about, having no certain dwelling place; never were maſters, but <hi>ſervants to all for Chriſts ſake;</hi>
+               <note place="margin">1 Cor. 4. ii.</note> nor ever went to Law for Tythes, or any other carthly thing.</p>
+            <p>Now all people, try your Prieſts by the Scriptures,
+<note place="margin">1 Joh. 2.3, 4, 5, 6. 2 Joh. 9.11</note> whether they be of God, or of the world; and never think to hear the Word of the Lord from their mouths, who walk contrary to the Scrip<g ref="char:EOLhyphen"/>tures; for ſuch were never ſent of God: for had they been ſent of God, they would abide in his doctrine:
+<note place="margin">2 John. 9.10, 11.</note> and ſaith <hi>Iohn</hi> Such <hi>have not God: but he that abideth in the Doctrine of Chriſt, hath both</hi> the Father and the Son. <hi>And if there come any to you, and bring not this Doctrine,</hi> you are <hi>forbidden to receive them into your houſe, or bid them God-ſpeed:</hi> for if you do, you are partakers of their evil deeds. <hi>And unto the wicked ſaith God, What haſt thou to do to declare my Statutes,
+<note place="margin">Pſal. 50.16, 17.</note> or that thou ſhoul<g ref="char:EOLhyphen"/>deſt take my Covenant into thy mouth? ſeeing thou hateſt in<g ref="char:EOLhyphen"/>ſtruction, and caſteſt my words behinde thy back and art a partaker with the Thief,</hi> the Adulterer Evil-ſpeaking,
+<note place="margin">Pſal. 50.21.</note> Slander<g ref="char:EOLhyphen"/>ing, and Deceit; and ſuch as theſe, <hi>think God to be like them<g ref="char:EOLhyphen"/>ſelvs.</hi>
+            </p>
+         </div>
+         <div type="text">
+            <pb n="20" facs="tcp:118283:16"/>
+            <head>Divers particulars of the perſecutions of <hi>James Nayler,</hi> by the Prieſts of <hi>Weſtmerland.</hi>
+            </head>
+            <p>I <hi>Ames</hi> being at a meeting at <hi>Edward Briggs</hi> houſe on the firſt day where many people met, he was deſired by divers friends to meet the day following at Widow <hi>Cocks</hi> houſe, about a mile from <hi>Kendal;</hi> whereof the Prieſts having notice, raiſed the Town of <hi>Kendal</hi> againſt him; but being long in gathering together, the meeting was done; but ſpies being out upon the Steeple top, and other places, notice was given what way <hi>James</hi> paſſed from thence: and coming down towards <hi>Kendal,</hi> two Prieſts, being accompanied with a Juſtice of peace, and ſome other Magiſtrates of the Town, with an exceeding great multitude of people follow<g ref="char:EOLhyphen"/>ing them, met him, ſaying, <hi>Nayler, I have a meſſage from the Lord Jeſus Chriſt to thee, but that there is not a convenient place.</hi> To which <hi>James</hi> anſwered, <hi>The Lord Jeſus Chriſt is no reſpecter of places.</hi> The meſſage that he had to declare, was this: <hi>I conjure thee that thou tell me, by what power thou in<g ref="char:EOLhyphen"/>flicteſt ſuch puniſhment upon the bodies of creatures. James</hi> anſwered, <hi>Doſt thou remember who it was that did adjure Chriſt to tell if he were the Son of God and asked by what Au<g ref="char:EOLhyphen"/>thority he did thoſe things?</hi> for <hi>James</hi> ſaw him to be one of that Generation. But the Prieſt ſtill conjuring him to tell by what power he did it; <hi>James</hi> anſwered, <hi>Doſt thou acknowledge it to be done by a power? Yea</hi> (ſaith he) <hi>I have the Spirit of God, and thereby I know it is done by a power. James</hi> ſaid, <hi>If thou have the Spirit of God, as thou ſayeſt thou haſt, then thou canſt tell by what power it is done.</hi> The Prieſt ſaid, <hi>When God
+<pb n="21" facs="tcp:118283:16"/>comes, he comes to torment the ſouls and not the bodies. Iames</hi> ſaid, <hi>He comes to redeem the ſouls.</hi>
+            </p>
+            <p>But after much jangling, the Prieſt began to accuſe him before the Juſtice and Magiſtrates, of many things; As, <hi>that he taught people to burn their Bibles, Children to diſobey their Parents, Wives their Husbands, People to diſobey the Magiſtrates and ſuch-like accuſations:</hi> To which <hi>James</hi> anſwered, <hi>Thou art a falſe accuſer: prove one of theſe things if thou canſt, here, before the Magiſtrates.</hi> But not being able to prove any one, he began to accuſe <hi>James</hi> for holding out a light that doth convince of ſin, <hi>which,</hi> ſaith the Prieſt, <hi>all have not.</hi> To which <hi>James</hi> ſaid, <hi>Put out one in all this great multitude that dare ſay he hath it not.</hi> Saith the Prieſt, <hi>Theſe are all Chriſtians; but if a Turk or Indian were here, he would deny it. Iames</hi> ſaid, <hi>Thou goeſt far for a proof: but if a Turk were here he would witneſs againſt thee.</hi>
+            </p>
+            <p>The people beginning to fight, the Prieſt turned away, ſaying, <hi>Here will be a diſturbance.</hi> Said <hi>Iames. Theſe are thy Chri<g ref="char:EOLhyphen"/>ſtians, and this is the fruits of thy Miniſtery.</hi> But the Juſtice, with ſome others, did endeavour to keep the rude people off him, ſo that they could not come to their purpoſe there: But he being to paſs over the Bridge, and through the Town, they that were of the Prieſts party ran before, ſwearing they would throw him off the Bridge into the Water; but coming thither, and ſeeing their purpoſe, he was encouraged in his God, who gave him aſſurance of protection, and did wonderfully keep him, and thoſe that were with him: for when he came unto the Bridge, the word of the Lord came unto him, and he was made to cry out againſt their rage; and the power of the Lord was with him, ſo that he re<g ref="char:EOLhyphen"/>received no harm, though he was made to ſpeak all along, and in the Market-place, and till he came out of the Town. But the raging Prieſts continued ſhouting, crying, and throwing ſtones at him, a quarter of a mile out of the Town: But ſuch was the power of the Lord, that neither he, nor any with him, received any harm. The work was wonderful, and we were brought much to admire it, and praiſe the Lord, who is bleſſed for ever and ever.</p>
+            <pb n="22" facs="tcp:118283:17"/>
+            <p>Another time, <hi>Iames</hi> being deſired of many Chriſtian Freinds to be at a meeting at <hi>Orton,</hi> there to wait upon the Lord for what he would make known to his people, did accordingly; and many friends and brethren accompanied him; but the Prieſts having in<g ref="char:EOLhyphen"/>telligence ſome daies before, five of them were gathered together, and many people from all quarters. A friend in the Town deſired <hi>James</hi> to come to his houſe; and being come into his houſe, a meſ<g ref="char:EOLhyphen"/>ſage was ſent from the Prieſts, deſiring him to come into the Field, under pretence of a more convenient place for the great multitude. To which <hi>Iames</hi> anſwered, <hi>It is my deſire that all may be edi<g ref="char:EOLhyphen"/>fied:</hi> and coming into the field, the Prieſts came with a great mul<g ref="char:EOLhyphen"/>titude, and asked him by what authority he came thither, and had gathered together ſo many people to break the peace; and tempt<g ref="char:EOLhyphen"/>ing him, ſaid, <hi>Wilt thou be bound that none here ſhall break the peace?</hi> To which <hi>Iames</hi> anſwered, <hi>We come not hither to cre<g ref="char:EOLhyphen"/>ate offences; but if any break the Law, let him ſuffer by the Law:</hi> for he perceived they intended violence, as it appeared after<g ref="char:EOLhyphen"/>wards.</p>
+            <p>But ſeeing they could not prevail in that, another of them deſi<g ref="char:EOLhyphen"/>red him to go into the Church, as he called it, tempted him, ſaying, <hi>The people may all ſit and hear better:</hi> But <hi>Iames</hi> perceiving their deceit, ſaid, <hi>All places were alike to him; he would abide in the field.</hi> Whereupon, they pulled out an Ordinance of Par<g ref="char:EOLhyphen"/>liament, forbidding any to ſpeak, but ſuch as were authorized to ſpeak either in Church, or Chappel, or any publick place; and bad him ſpeak at his peril, as he would anſwer the contempt of it. To which he anſwered ſaying. <hi>This is not a publick place. No?</hi> ſaid one of the Prieſts, <hi>Is not this a publick place, the Town-field?</hi> and charged the Conſtable of the town to do his office; and ex<g ref="char:EOLhyphen"/>amined his authority: <hi>James</hi> anſwered, <hi>Thoſe that are ſent to de<g ref="char:EOLhyphen"/>clare the things of God, have not their authority from men.</hi> But they bad him prove that. He ſaid, <hi>Paul received not his commiſſion from man nor by man.</hi> To which one of them an<g ref="char:EOLhyphen"/>ſwered, <hi>That was his Goſpel; but they would prove that</hi> Paul <hi>had a call from man to preach;</hi> and for that end he named that place in <hi>Acts</hi> 13.2. where the Holy Ghoſt ſaid, <hi>Separate me Barnab as and Saul: and the Apoſtles laid their hands upon
+<pb n="23" facs="tcp:118283:17"/>them;</hi> which, ſaid one of them, <hi>was the laying on of hands of the Presbytery;</hi> But when he had found that place, <hi>Iames</hi> asked him if that was <hi>Pauls</hi> call to the Miniſtery (three times) but he anſwered nothing. Then ſaid <hi>James, If that was his call he had preached long without a call before that;</hi> and inſtanced to prove it, <hi>Gal.</hi> 1.</p>
+            <p>Whereupon that buſineſs ended; But another Prieſt ſtood up, and ſaid, <hi>Thou oughteſt to give an account of thy faith to eve<g ref="char:EOLhyphen"/>ry one that asketh;</hi> whereupon, he asked divers queſtions; whereunto <hi>Iames</hi> anſwered, inſomuch that ſome who ſtood by, cryed out, <hi>Anſwer not all but aske him ſome.</hi> A while after, <hi>James</hi> asked him <hi>how he would prove himſelf a Miniſter of the Goſpel, and live upon Tythes?</hi> To which he would not an<g ref="char:EOLhyphen"/>ſwer. Then ſaid <hi>James, Neither will I anſwer thee, if thou ask me twenty more.</hi>
+            </p>
+            <p>The next queſtion he asked, was, <hi>Whether Chriſt was aſcend<g ref="char:EOLhyphen"/>ed, or no:</hi> but <hi>James</hi> ſaid, <hi>I will not anſwer thee.</hi> Whereupon, he cryed out to the people, and ſaid, <hi>He denies the humanity of Chriſt;</hi> and made a great outcry among the people of it. But the people cryed out, ſaying, <hi>Let us hear him; you have often told us many things againſt him; let him ſpeak, and then if he ſpeak not truth, you may then reprove him. James</hi> hearing the deſire of the people, began to ſpeak; and the people gave audi<g ref="char:EOLhyphen"/>ence and were very ſilent. But beginning to hold out Chriſt a lone to be the Teacher of his people inſpirit and truth, one of the Prieſts cryed out, <hi>I cannot endure to hear this Seducer any longer.</hi> Up<g ref="char:EOLhyphen"/>on which. <hi>Iames</hi> ſaid, <hi>Prove me a Seducer before all this peo<g ref="char:EOLhyphen"/>ple, or elſe thou art a falſe Accuſer.</hi> But he had not one word to ſay againſt any thing that he had ſpoken; But ſaid, <hi>If thou wilt not anſwer me that Queſtion I asked thee, I will call thee a Seducer as long as I live.</hi>
+            </p>
+            <p>Whereupon, ſeeing there could be no peace there, nor liberty to ſpeak, they deſired <hi>Iames</hi> to go into the houſe; and they kept cloſe about him, to keep him from the violence of ſome that came along with the Prieſt: but they raged ſo, that he and ſome other friends received ſtripes, and with much ado got into the houſe; But the raging <hi>Sodomites</hi> waited about the dore to do miſchiefe,
+<pb n="24" facs="tcp:118283:18"/>and kept ſhouting about the houſe, all the while he was ſpeaking; but the houſe being filled with People, they could not come to their purpoſe; and the Lord ſo ordered it in the Evening, we came away without any more harm: but not long after, there came ſome of the Prieſts party about the houſe and asked if <hi>Nayler</hi> was gone: and when they heard he was gone, they ſaid, <hi>He may thank God of that.</hi> Thus by the wiſdom of God he eſcaped their violence at that time.</p>
+            <p>But the Prieſts miſſing of their purpoſe there, the next firſt day after, they prepared their Sermons ſutable to what they intended, poſſeſſing the people that he was a Blaſphemer, and denyed the Reſurrection, and the Humanity of Chriſt, and all Authority; and that the Parliament had opened a gap for Blaſphemy, and, as it was ſaid by ſome of their heaters, they did God good ſervice that would knock him down. Thus having ſtirred up the ruder ſort, the next day they prevailed with one called a Juſtice of Peace; the Prieſt's ſon got him to come twelve miles from his owne houſe; he was one that had been in actual arms againſt the Parliament, for the bringing in of the <hi>Scots;</hi> And having armed a great multi<g ref="char:EOLhyphen"/>tude againſt the next morning, they came very early to the houſe where he was; where many Chriſtian friends ſhould have met that day, and asked for <hi>Nayler</hi> threatning to knock out his brains againſt the ſtones in the wall, and that they would pull down the houſe, if he would not come out; though the dore was never ſhut againſt them. But ſome of them came into the houſe, and com<g ref="char:EOLhyphen"/>manded him to come forth, under pretence to diſpute with the Prieſt. But <hi>Iames</hi> ſeeing what they intended, anſwered, <hi>You did not uſe me ſo civilly the laſt time I was amongſt you; but if any have a minde, they may come in, the dores are open.</hi> Which anſwer they told the Prieſts; whereupon, they ruſhed violently in, and took him by the throat, haled him out of the dore, into a field, where was a man whom they called a Juſtice, and with a Pitchfork ſtruck off his Hat, and commanded him to anſwer to ſuch Queſtions as the Prieſts would ask him. Whereupon, the Prieſt began to ask many Queſtions; as, concerning the Reſurre<g ref="char:EOLhyphen"/>ction, the Humanity of Chriſt, the Scriptures; and divers other Queſtions, as the Sacrament, and ſuch-like: to which he anſwered,
+<pb n="25" facs="tcp:118283:18"/>and proved Scripture. But at laſt, being asked if Chriſt was in him, he ſaid <hi>he witneſſed him in meaſure.</hi> The Prieſt asked, <hi>if Chriſt was in him as man. Iames</hi> ſaid, <hi>Chriſt is not divided.</hi> But he urged him to tell whether Chriſt as man was in him or no. He anſwered, <hi>Chriſt is not divided; for if he be, he is no more Chriſt: but I witneſs that Chriſt in me who is God and man<g ref="char:punc">▪</g> in meaſure.</hi> But the Prieſt ſaid, <hi>Chriſt is in heaven with a carnal body.</hi> To which ſaid <hi>Iames, Chriſt filleth Heaven and Earth, and is not carnal, but ſpiritual: for if Chriſt be in heaven with a carnal body, and the Saints with a ſpiritual body, that is not proportionable; neither was that a carnal body which came in among the Diſciples, the doors being ſhut: for Chriſt is a Myſtery, and thou knoweſt him not.</hi>
+            </p>
+            <p>Then after much jangling and tempting, the Prieſt not having got the advantage he waited for, he cried out unto the people not to receive him into their houſes; and alledged that in the ſecond Epiſtle of <hi>Iohn,</hi> verſe 10. Now how ſuitable that place was for his purpoſe, all people may ſee, who have eyes; for there they are forbidden to receive any into their houſes but ſuch who <hi>abide in the Doctrine of Chriſt,</hi> and <hi>confeſs themſelves that they had both the Father and the Son,</hi> and preach that Doctrine: but the Prieſts ſay that is blaſphemy.</p>
+            <p>Then the Prieſt turned away from him; upon which, the arm<g ref="char:EOLhyphen"/>ed Multitude began to be violent againſt divers friends that were there. <hi>Iames</hi> hearing friends cry out, ſaid to the Juſtice, <hi>You will ſurely ſet us peaceably into the houſe again:</hi> But ſeeing him to go away, and leave them in the hands of the rude multitude, he gave himſelf up, ſaying, <hi>The will of the LORD be done.</hi>
+            </p>
+            <p>Upon which, the Juſtice turned again, ſaying, <hi>We will ſee him in the houſe again;</hi> and going towards the houſe, many friends kept cloſe about <hi>James,</hi> expoſing their own bodies to the danger of their weapons, to ſave him harmeleſs; and ſo with much ado we got into the houſe, not receiving much harme. Which being done, and as <hi>James</hi> was praiſing the Lord for his wondrous de<g ref="char:EOLhyphen"/>liverance from their malicious intents, ſome heard them ſay, <hi>If we let him go thus, all people will run after him.</hi> Whereupon,
+<pb n="26" facs="tcp:118283:19"/>they agreed that he ſhould be brought before the Juſtice again; and came with violence, and haled him out again. Then the Juſtice and the Prieſt getting a horſeback, they cauſed him to run after them to an Alehouſe on the other ſide the water, where they went in, not ſuffering one friend to go in with <hi>James.</hi> And when he came before the Juſtice, he told him, if he would not put off his hat, he would ſend him to priſon, and alſo becauſe he Thoued him; for the Juſtice ſaid, <hi>My Commiſſion runs Yee.</hi> To which <hi>James</hi> an<g ref="char:EOLhyphen"/>ſwered, <hi>I do it not in contempt; for I own Authority, and honour it according to the Scriptures; But I finde none ſuch honour commanded in Scripture, but forbidden.</hi> Then they concluded to commit him for that, and alſo as a wandring perſon, and ſaid none there knew from whence he came; for thoſe who knew him were kept out. Then ſaid he to <hi>Arthur Scaife, Thou knoweſt me; I was in the Army with thee eight or nine yeers. It is no matter,</hi> ſaid the Juſtice, <hi>thou art no Souldier now.</hi>
+            </p>
+            <p>Then they writ a <hi>Mittimus</hi> to ſend him to priſon; and carried him to <hi>KirkbyS-teven</hi> that night, and ſhut him up in a Cham<g ref="char:EOLhyphen"/>ber, and ſet a guard upon him; but divers of our friends follow<g ref="char:EOLhyphen"/>ing into the Town, where a great multitude was gathered toge<g ref="char:EOLhyphen"/>ther for meeting, then did the people come from the Steeple-houſe, where another had been preaching; for divers of the Prieſts were gathered together that day; ſome preaching, ſome plotting, and ſome perſecuting: <hi>Iezabel's</hi> faſt was a preparation for <hi>Naboths</hi> death. But friends not being ſuffered to go into the houſe where <hi>Iames</hi> was, they abode in the ſtreets; and ſome of them being moved to ſpeak to the people, the Prieſts perceiving the people to give audience to what was ſpoken, made complaint: Whereupon, ſome were ſent forth, and with violence fetched in one <hi>Francis Howgill,</hi> a friend; who was ſpeaking to the people, and brought him into the high-Prieſts hall, where were five Prieſts aſſembled, with many other of their party, but not one friend. And bringing him before the Juſtice he was commanded to put off his hat. He anſwered, <hi>I know no ſuch law.</hi> The Prieſt ſaid, <hi>He will tread both Miniſtery and Magiſtracy under his feet.</hi> He ſaid, <hi>Thou art a falſe Accuſer; prove wherein.</hi> But one that ſtood by,
+<pb n="27" facs="tcp:118283:19"/>took off his hat, and caſt it into the fire. Then ſaid the Juſtice <hi>What is this thou ſpeakeſt againſt the Miniſters?</hi> He anſwered, <hi>What haſt thou to accuſe me of?</hi> Whereupon, one affirmed that he ſaid. <hi>All the Miniſters that taught for hire, and in Steeple-houſes, were enemies, and Lyars againſt Jeſus Chriſt, and no Mini<g ref="char:EOLhyphen"/>ſters of Ieſus Chriſt.</hi> Upon that, the Juſtice ſaid, <hi>Thou ſpeak<g ref="char:EOLhyphen"/>eſt againſt the Law; for the Law gives them their mainte<g ref="char:EOLhyphen"/>nance.</hi> He ſaid, <hi>I meddle not of the Law but of their practice.</hi> Then ſaid <hi>Francis</hi> to the Prieſt <hi>Didſt thou ever know a Miniſter of Jeſus Chriſt that was a perſecuter, or did labour to impriſon any?</hi> And after ſome more diſcourſe, he ſaid to the Prieſt, <hi>I have ſeen a great deal of tyranny and perſecution in this dayes acti<g ref="char:EOLhyphen"/>ons.</hi> Then ſaid the Juſtice to the people, <hi>Take notice, he ſaith the Law I act by is Tyranny and perſecution.</hi> To which the people aſſented. Then ſaid <hi>Francis. Thou maiſt give out to the people what thou wilt; but I ſpeak not of the law but of your Actions.</hi> Upon that, he was ſent to priſon; a guard of eight men was ſet over them who ſpent the night in drinking ſwearing, and filthy and unclean talking; and the more they were deſired by the people to take heed of ſin, the more filthy they did ap<g ref="char:EOLhyphen"/>pear: but theſe are the fitteſt inſtruments for acting the Prieſts in<g ref="char:EOLhyphen"/>tentions, being Members of their Churches.</p>
+            <p>The next day they were guarded to <hi>Appleby:</hi> but ſome friends following could not be ſuffered to paſs on the ſtreets that way, ſo great was their envy againſt all that ſet their face that way. And the Priſoners being brought thither, much meanes was uſed that none ſhould come at them, but ſuch as were ſent to tempt them. There they were kept untill the Seſſions; in which time they ſent up and down the Country to ſeek for any who would witneſs any thing againſt them, and improved their utmoſt intereſt for their advantage. A Jury was choſen; divers of them were reſolved on the buſineſs, ſo that it was told the Priſoners what would be<g ref="char:EOLhyphen"/>come of them, before the day of examination came; and it was accordingly: For the day came, and judgement paſſed; but the Priſoners never ſaw their Accuſers, nor know who they are; but againſt that day, the Prieſts had prepared three large Petitions ſtuft with moſt filthy untruths and ſlanders, raiſed out of the bot<g ref="char:EOLhyphen"/>tomleſs
+<pb n="28" facs="tcp:118283:20"/>pit; but not one of them proved though one of the Juſti<g ref="char:EOLhyphen"/>ces ſaid to them, <hi>It is fit they ſhould be proved;</hi> neither was there any thing in them, which they could charge upon the Priſon<g ref="char:EOLhyphen"/>ers, ſave onely the power of the Lord had manifeſted at their meetings in ſhaking proud fleſh, and pouring out his Spirit upon many, eſpecially, as they ſaid, upon little children; which the Prieſts concluded was Sorcery and Witchery, and of the Divel: hereby declaring themſelves to be of that generation, who <hi>called the good man of the houſe Beelzebub;</hi> and if they ſhould not do the ſame to them of his houſhold, the words of Chriſt could not be fulfilled.</p>
+            <p>Likewiſe they had gathered up all reports, true or falſe of things done by many that the Priſoners had not ſeen the faces of, nor ever knew; thinking thereby to make them odious to the peo<g ref="char:EOLhyphen"/>ple. They alſo brought two Prieſts out of <hi>Lancaſhire,</hi> to ſwear things that another man had ſpoken in the preſence of four Juſtices of the peace, and for which the man had been tryed and cleared: And theſe they brought, thinking to <hi>add afflictions to the Priſon<g ref="char:EOLhyphen"/>ers bonds.</hi> But he is kept in great peace and joy, having not any comfort from man, but from God, who hath appeared to him in this condition, and hath given him aſſurance of his love, in whom he reſts. To whom be praiſe, honour, and glory, for ever. Amen.</p>
+         </div>
+         <div type="examination">
+            <pb n="29" facs="tcp:118283:20"/>
+            <head>The Examination of <hi>James Nayler,</hi> upon an Indictment of Blaſphemy, at the Seſsions at <hi>Appleby,</hi> in <hi>Janua<g ref="char:EOLhyphen"/>ry</hi> 1652.</head>
+            <sp>
+               <speaker>
+                  <hi>I<g ref="char:V">Ʋ</g>ſtice</hi> Pearſon.</speaker>
+               <p>
+                  <hi>Put off your Hats.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Iames.</speaker>
+               <p>I do it not in contempt of Authority: for I honour the power as it is of God, without reſpecting mens perſons it be<g ref="char:EOLhyphen"/>ing forbidden in Scripture. He that reſpects perſons, commits ſin, and is convinced of the Laws a Tranſgreſſor.</p>
+            </sp>
+            <sp>
+               <speaker>
+                  <hi>Juſt.</hi> Pear.</speaker>
+               <p>
+                  <hi>That is meant of reſpecting perſons in judgment.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Iames.</speaker>
+               <p>If I ſee one in goodly apparel and a gold Ring and ſee one in poor and vile Raiment, and ſay to him in fine apparel, Sir thou in a higher place then the poor, I am partial, and judge of evil thoughts.</p>
+            </sp>
+            <sp>
+               <speaker>
+                  <hi>Col.</hi> Brigs.</speaker>
+               <p>
+                  <hi>If thou wert in the Parliament-houſe, wouldſt thou keep it on?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Jam.</speaker>
+               <p>If God ſhould keep me in the ſame minde I am in now, I ſhould.</p>
+            </sp>
+            <sp>
+               <speaker>
+                  <hi>Col.</hi> Brigs.</speaker>
+               <p>I <hi>knew thou wouldſt contemn Authority.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Jam.</speaker>
+               <p>I ſpeak in the preſence of God, I do not contemn Au<g ref="char:EOLhyphen"/>thority; but I am ſubject to the power as it is of God, for Con<g ref="char:EOLhyphen"/>ſcience ſake.</p>
+            </sp>
+            <sp>
+               <speaker>
+                  <hi>Juſt.</hi> Pearſ.</speaker>
+               <p>
+                  <hi>Now Authority commands thee to put off thy Hat; what ſayeſt thou to it?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>James.</speaker>
+               <p>Where God commands one thing, and man another, I am to obey God rather then man.</p>
+            </sp>
+            <sp>
+               <speaker>
+                  <hi>Col.</hi> Benſon.</speaker>
+               <p>
+                  <hi>See whether the Law commands it, or your owne wills.</hi>
+               </p>
+               <pb n="30" facs="tcp:118283:21"/>
+               <p>The Inditement was read, wherein <hi>James</hi> was Indited for ſay<g ref="char:EOLhyphen"/>ing that <hi>Chriſt was in him and that there was but one word of God.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>
+                  <hi>Col.</hi> Brigs.</speaker>
+               <p>
+                  <hi>Where waſt thou born?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>James.</speaker>
+               <p>At <hi>Ardiſlaw</hi> two miles from <hi>Wakefeild.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>
+                  <hi>Col.</hi> Brigs.</speaker>
+               <p>
+                  <hi>How long livedſt thou there?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>James.</speaker>
+               <p>Until I was married: then I went into <hi>Wakefeild Pa<g ref="char:EOLhyphen"/>riſh.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>
+                  <hi>Col.</hi> Brigs.</speaker>
+               <p>
+                  <hi>What Profeſſion waſt thou of?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>James.</speaker>
+               <p>A Husbandman.</p>
+            </sp>
+            <sp>
+               <speaker>
+                  <hi>Col.</hi> Brigs.</speaker>
+               <p>
+                  <hi>Waſt thou a Souldier?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Jam.</speaker>
+               <p>Yea; I was a Souldier betwixt eight and nine years.</p>
+            </sp>
+            <sp>
+               <speaker>
+                  <hi>Col.</hi> Brigs.</speaker>
+               <p>
+                  <hi>Waſt thou not at Burford among the Levellers?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Jam.</speaker>
+               <p>I was never there.</p>
+            </sp>
+            <sp>
+               <speaker>
+                  <hi>Col.</hi> Brigs.</speaker>
+               <p>I <hi>charge thee by the Lord, that thou tell me whether thou waſt or no.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Jam.</speaker>
+               <p>I was then in the North, and was never taxed for any Mutiny, or any other thing, while I ſerved the Parliament.</p>
+            </sp>
+            <sp>
+               <speaker>
+                  <hi>Col.</hi> Brigs.</speaker>
+               <p>
+                  <hi>What was the cauſe of thy coming into theſe parts?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>James.</speaker>
+               <p>If I may have liberty, I ſhall declare it. I was at the plow, meditating on the things of God, and ſuddenly I heard a voice, ſaying unto me, <hi>Get thee out from thy Kindred and from thy Fathers houſe:</hi> and I had a promiſe given in with it. Where<g ref="char:EOLhyphen"/>upon, I did exceedingly rejoyce, that I had heard the voyce of that God which I had profeſſed from a Child, but had never known him.</p>
+            </sp>
+            <sp>
+               <speaker>
+                  <hi>Col.</hi> Brigs.</speaker>
+               <p>
+                  <hi>Didſt thou hear that voice?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Jam.</speaker>
+               <p>Yea, I did hear it; and when I came at home. I gave up my Eſtate, caſt out my mony; but not being obedient in going forth, the wrath of God was upon me ſo that I was made a won<g ref="char:EOLhyphen"/>der to all; and none thought I would have lived; but (after I was made willing) I began to make ſome preparation; as appa<g ref="char:EOLhyphen"/>rel, and other neceſſaries, not knowing whither I ſhould go. But ſhortly afterward going agateward with a friend from my owne
+<pb n="31" facs="tcp:118283:21"/>houſe, having on an old Suit, without any money, having neither taken leave of wife or children, not thinking then of any jour<g ref="char:EOLhyphen"/>ney, I was commanded to go into the Weſt, not knowing whither I ſhould go, nor what I was to do there: but when I had been there a little while, I had given me what I was to declare; and ever ſince I have remained, not knowing to day what I was to do to morrow.</p>
+            </sp>
+            <sp>
+               <speaker>Col. <hi>Brigs.</hi>
+               </speaker>
+               <p>
+                  <hi>What was the Promiſe thou had'ſt given?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Iames.</speaker>
+               <p>That God would be with me: which promiſe I finde made good every day;</p>
+            </sp>
+            <sp>
+               <speaker>
+                  <hi>Col.</hi> Brigs.</speaker>
+               <p>
+                  <hi>I never heard ſuch a call as this is, in our time?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>James.</speaker>
+               <p>I believe thee.</p>
+            </sp>
+            <sp>
+               <speaker>Juſt. <hi>Pearſ.</hi>
+               </speaker>
+               <p>
+                  <hi>Is Chriſt in thee?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>James.</speaker>
+               <p>I witneſs him in me: and if I ſhould deny him before men, he would deny me before my Father which is in heaven.</p>
+            </sp>
+            <sp>
+               <speaker>Juſt. <hi>Pearſ.</hi>
+               </speaker>
+               <p>
+                  <hi>Spiritual, you mean.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Iam.</speaker>
+               <p>Yea, Spiritual.</p>
+            </sp>
+            <sp>
+               <speaker>Juſt. <hi>Pearſ.</hi>
+               </speaker>
+               <p>
+                  <hi>By faith, or how?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Jam.</speaker>
+               <p>By Faith.</p>
+            </sp>
+            <sp>
+               <speaker>Juſt. <hi>Pearſ.</hi>
+               </speaker>
+               <p>
+                  <hi>What difference then between the Miniſters and you?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Jam.</speaker>
+               <p>The Miniſters affirm Chriſt to be in heaven with a Car<g ref="char:EOLhyphen"/>nal body, but I with a Spiritual body.</p>
+            </sp>
+            <sp>
+               <speaker>Juſt. <hi>Pearſ.</hi>
+               </speaker>
+               <p>
+                  <hi>Which of the Miniſters ſay Chriſt is in hea<g ref="char:EOLhyphen"/>ven with a Carnal body?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Iam.</speaker>
+               <p>The Miniſter ſo called of <hi>Kirkby-Steven.</hi>
+               </p>
+               <p>Prieſt <hi>Higginſon</hi> ſtood up, and affirmed it again openly before all the Court.</p>
+            </sp>
+            <sp>
+               <speaker>Iames.</speaker>
+               <p>If Chriſt be in heaven with a Carnal body, and the Saints with a Spiritual body, it is not proportionable; neither was that a carnal body which appeared among the Diſciples, the doors being ſhut, and appeared in divers ſhapes.</p>
+            </sp>
+            <sp>
+               <speaker>Queſt.</speaker>
+               <p>
+                  <hi>Was Chriſt man, or no?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Iames.</speaker>
+               <p>Yea, he was, and <hi>took upon him the ſeed of</hi> Abra<g ref="char:EOLhyphen"/>ham and was real fleſh and bone; but is a Myſtery not known to the carnal man; for he is begotten of the <hi>immortal ſeed,</hi> and
+<pb n="32" facs="tcp:118283:22"/>thoſe that know him know him to be Spiritual; for it was <hi>the Word</hi> that <hi>became fleſh and dwelt amongſt us;</hi> and if he had not been Spiritual he had not wrought my Redemption.</p>
+            </sp>
+            <sp>
+               <speaker>Juſt. <hi>Pearſ.</hi>
+               </speaker>
+               <p>
+                  <hi>Is Chriſt in thee as man?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Iames.</speaker>
+               <p>Chriſt filleth all places, and is not divided: ſeparate God and man and he is no more Chriſt.</p>
+            </sp>
+            <sp>
+               <speaker>Juſt. <hi>Pearſ.</hi>
+               </speaker>
+               <p>
+                  <hi>If we ſtand to diſpute theſe things, we ſhould have the Miniſters.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>James</speaker>
+               <p>Perceiving Prieſt <hi>Higginſon</hi> offended, becauſe he had told of his ſaying that Chriſt was in heaven with a carnal bo<g ref="char:EOLhyphen"/>dy, <hi>James</hi> ſaid, <hi>Friend I had not accuſed thee, had I not been asked what was the difference between the Mini<g ref="char:EOLhyphen"/>ſters and me: for I am not come to accuſe any;</hi> for I am againſt accuſations.</p>
+            </sp>
+            <sp>
+               <speaker>
+                  <hi>Col.</hi> Brigs.</speaker>
+               <p>
+                  <hi>Waſt thou not of a Kirk about</hi> Sawrby?</p>
+            </sp>
+            <sp>
+               <speaker>James.</speaker>
+               <p>I was a member of an Independant Church at <hi>Weed<g ref="char:EOLhyphen"/>church.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>
+                  <hi>Col.</hi> Brigs.</speaker>
+               <p>
+                  <hi>Waſt thou not excommunicated for thy blaſphe<g ref="char:EOLhyphen"/>mous Opinions?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>James.</speaker>
+               <p>I know not what they have done ſince I came forth; but before I was not, to my knowledge.</p>
+            </sp>
+            <sp>
+               <speaker>Col.</speaker>
+               <p>Brigs called of Mr. <hi>Coale,</hi> ſaying, <hi>Did you ere hear ſuch a call as this? did you hear it?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Coale.</speaker>
+               <p>
+                  <hi>Yea, I heard part of it.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>
+                  <hi>Col.</hi> Brigs.</speaker>
+               <p>
+                  <hi>Didſt not thou write a paper wherein was menti<g ref="char:EOLhyphen"/>oned, that if thou thinkeſt to be ſaved by that Chriſt which dyed at Jeruſalem, thou art deceived?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>James.</speaker>
+               <p>If I cannot witneſs Chriſt nearer then <hi>Jeruſalem,</hi> I ſhall have no benefit by him; but I owne no other Chriſt but that who <hi>witneſſed a good confeſſion before Pontius Pilate;</hi> which Chriſt I witneſs ſuffering in me now.</p>
+            </sp>
+            <sp>
+               <speaker>
+                  <hi>Col.</hi> Brigs.</speaker>
+               <p>
+                  <hi>Wilt thou deny thy hand?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>James.</speaker>
+               <p>I will not deny my hand, if I may ſee it; and I deſire that I may have ſo much favour, that that paper may be kept as an evidence either with or againſt me.</p>
+               <p>A large Petition being read, wherein was ſomething againſt quaking and trembling.</p>
+               <pb n="33" facs="tcp:118283:22"/>
+            </sp>
+            <sp>
+               <speaker>
+                  <hi>Juſt.</hi> Pearſ.</speaker>
+               <p>
+                  <hi>How comes it to paſs that people quaks and tremble?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>James.</speaker>
+               <p>The Scriptures witneſs the ſame condition in the Saints formerly; as <hi>David Daniel, Habakkuk,</hi> and divers others.</p>
+            </sp>
+            <sp>
+               <speaker>
+                  <hi>Juſt.</hi> Pearſ.</speaker>
+               <p>
+                  <hi>Did they fall down?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>James.</speaker>
+               <p>Yea ſome of them did ſo.</p>
+            </sp>
+            <sp>
+               <speaker>Coale.</speaker>
+               <p>David <hi>ſaid all his bones were broken, but they were whole.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>James.</speaker>
+               <p>So are theſe now.</p>
+            </sp>
+            <sp>
+               <speaker>Coal.</speaker>
+               <p>
+                  <hi>Moſes trembled; for he ſaw the face of God, and all Iſrael.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>James.</speaker>
+               <p>Did all <hi>Iſrael</hi> ſee the face of God? that croſſeth the Scriptures.</p>
+            </sp>
+            <sp>
+               <speaker>Coale.</speaker>
+               <p>
+                  <hi>They ſaw his glory.</hi> I <hi>ſhall ſee the Lord with theſe eyes;</hi> putting his fingers to his eyes.</p>
+            </sp>
+            <sp>
+               <speaker>James.</speaker>
+               <p>They muſt firſt be made ſpiritual: he cannot be ſeen with carnal eyes, for he is a Spirit; and no fleſh can ſee God, and live.</p>
+            </sp>
+            <sp>
+               <speaker>Coale.</speaker>
+               <p>
+                  <hi>That light by which</hi> I <hi>am juſtified, is a created light.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>James.</speaker>
+               <p>That light by which I am juſtified, is not a created light.</p>
+            </sp>
+            <sp>
+               <speaker>Coale.</speaker>
+               <p>
+                  <hi>That is true.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Juſt. <hi>Pearſ.</hi>
+               </speaker>
+               <p>
+                  <hi>To the Word: What ſay'ſt thou to the Scrip<g ref="char:EOLhyphen"/>tures? are they the Word of God?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Jam.</speaker>
+               <p>They are a true Declaration of the Word that was in them who ſpoke them forth.</p>
+            </sp>
+            <sp>
+               <speaker>Higginſon.</speaker>
+               <p>
+                  <hi>Is there not a written Word?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Jam.</speaker>
+               <p>Where readeſt thou in thy Scriptures, of a written word? The word is ſpiritual, not ſeen with carnal eyes: but as for the Scriptures, they are true, and I witneſs them true, in meaſure ful<g ref="char:EOLhyphen"/>filled in me, as far as I am grown up.</p>
+            </sp>
+            <sp>
+               <speaker>Juſt. <hi>Pearſ.</hi>
+               </speaker>
+               <p>
+                  <hi>Why doſt thou diſturb the Miniſters in their publick worſhips?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Jam.</speaker>
+               <p>I have not diſturbed them in their publick worſhips.</p>
+            </sp>
+            <sp>
+               <speaker>Juſt. <hi>Pearſ.</hi>
+               </speaker>
+               <p>
+                  <hi>Why doſt thou ſpeak againſt Tythes, which are allowed by the States?</hi>
+               </p>
+               <pb n="34" facs="tcp:118283:23"/>
+            </sp>
+            <sp>
+               <speaker>Iam.</speaker>
+               <p>I meddle not with the States; I ſpeak againſt them that are hirelings, as they are hirelings: thoſe that were ſent of Chriſt, never took Tythes, nor ever ſued any for wages.</p>
+            </sp>
+            <sp>
+               <speaker>Juſt. <hi>Pearſ.</hi>
+               </speaker>
+               <p>
+                  <hi>Doſt thou think we are ſo beggerly as the Heathens, that we cannot afford our Miniſters maintenance? We give them it freely.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Iam.</speaker>
+               <p>They are the Miniſters of Chriſt, who abide in the do<g ref="char:EOLhyphen"/>ctrine of Chriſt.</p>
+            </sp>
+            <sp>
+               <speaker>Juſt. <hi>Pearſ.</hi>
+               </speaker>
+               <p>
+                  <hi>But who ſhall judg? how ſhall we know them?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Jam.</speaker>
+               <p>By their fruits you ſhall know them; they that abide not in the Doctrine of Chriſt, make it appear they are not the Mi<g ref="char:EOLhyphen"/>niſters of Chriſt.</p>
+            </sp>
+            <sp>
+               <speaker>Juſt. <hi>Pearſ.</hi>
+               </speaker>
+               <p>
+                  <hi>That is true.</hi>
+               </p>
+            </sp>
+         </div>
+         <div type="text">
+            <pb n="35" facs="tcp:118283:23"/>
+            <head>Accuſations againſt <hi>Jo: Lawſon,</hi> by him anſwered.</head>
+            <p>THat <hi>Joh: Lawſon</hi> of <hi>Lancaſter,</hi> did affirme, <hi>December</hi> the fourth, 1652.</p>
+            <p>Object. <hi>That he was dead, and roſe againe.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> Thou art a witneſs againſt him that is riſen riſen from the dead, whereof the Apoſtles were witneſſes. Here thou ſheweſt thy ſelf to be a witneſs againſt the living, and ſheweſt thy ſelf to be in the death, and no Miniſter of Chriſt: for the Miniſters of Chriſt juſtified them which were raiſed from the dead:
+<note place="margin">Eph. 2.1.</note> 
+               <hi>Even when we were dead in treſpaſſes and ſins hath he quickned us together with Chriſt, and hath raiſed us together, and hath made us to ſit in heavenly places in Chriſt Jeſus.
+<note place="margin">Rom. 6.10, 11.</note> Likewiſe reckon you alſo your ſelves to be dead indeed unto ſin but alive unto God, through Jeſus Chriſt: for in that he died, he died once unto ſin; in that he lives, he lives unto God.</hi> Here thou ſheweſt thy ſelf to be no Miniſter of Jeſus Chriſt. He that believ<g ref="char:EOLhyphen"/>eth, hath <hi>paſſed from death to life, becauſe be loveth his bre<g ref="char:EOLhyphen"/>thren:</hi> here thou ſheweſt thou doſt not believe, but art in the death, and art in envy; ſo thou ſheweſt forth thy ſelf to be <hi>Cain,</hi> and hateſt thy brethren. <hi>We know that we are tranſlated from death unto life, becauſe we love our brethren: he that loveth not his brother, abideth in the death;</hi> and there thou art. <hi>Whoſoever hateth his brother, is a man-ſlayer; and you know that no man-ſlayer hath eternal life abiding in him,</hi> 1 <hi>Joh.</hi> 3. And this is thy condition, and here thou art an Antichriſt in the world, envying thoſe who are raiſed from the dead; and thou ſeekeſt to bring them to the death, whom God hath raiſed from
+<pb n="36" facs="tcp:118283:24"/>the death. Thou haſt not ſeen thy ſelf to be the prodigal; yet the Scripture ſaith,
+<note place="margin">Luk. 15.24</note> 
+               <hi>This my ſon was dead, and is alive againe:</hi> but thou art <hi>without God in the world.</hi>
+            </p>
+            <p>Object. 2. <hi>That the day of judgement was paſt.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi>
+               <note place="margin">Mat. 12.20</note> Chriſt ſpeaks, <hi>The bruiſed reed he will not break, the ſmoaking Flax he will not quench, till he bring forth judge<g ref="char:EOLhyphen"/>ment into victory.</hi> Here thou ſheweſt thy ſelf to be ignorant of the Scripture; but onely as a hear-ſayer thou ſpeakeſt, and the outſide of the Letter, and not Chriſt; and canſt not witneſs him, who brings forth judgement into victory, but ſtandeſt as a witneſs againſt them who witneſs the Scriptures fulfilled in them, and Chriſt bringing forth judgement into victory: and here thou ſheweſt thy ſelf to be unacquainted with Chriſt, and thy nakedneſs and igno<g ref="char:EOLhyphen"/>rance thou makeſt appear.</p>
+            <p>Object. 3. <hi>That he had been in Hell, and is now in Hea<g ref="char:EOLhyphen"/>ven.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> Here thou ſheweſt thy ſelf to be a witneſs againſt the holy men of God. Jonah ſaith, <hi>Out of the belly of hell cryed I,
+<note place="margin">Jon. 2.</note> and thou heardeſt my voice,</hi> and the Lord delivered him out of hell; and might not he confeſs it? (thou hypocrite.) <hi>For thou wilt not leave my ſoul in hell, neither wilt thou ſuffer thy holy one to ſee corruption.
+<note place="margin">Pſa. 16.10.</note> Thou haſt delivered my ſoul out of death: bleſs the Lord,</hi> my ſoul, <hi>and all that is within me, bleſs his holy name.</hi>
+               <note place="margin">Pſa. 103.1.2.</note> How dareſt thou profeſs the Scriptures, and the holy men of Gods-conditions, which were raiſed and brought out of death; and if any witneſs the holy men of Gods condition, thou perſecuteſt them? O thou blind hypocrite! here thou ſheweſt thou never ſaweſt hells mouth yet, therefore thou never cryedſt in hell yet.</p>
+            <p>Object. 4. <hi>That he was come to the infinite company of the firſt-born, and the Spirits of juſt men made per<g ref="char:EOLhyphen"/>fect.</hi>
+            </p>
+            <p>
+               <hi>Anſw. Paul</hi> ſaid (who was a Miniſter of God) <hi>But ye are come to Mount</hi> Sion,
+<note place="margin">Heb. 12.22</note> 
+               <hi>and unto the City of the living God,</hi> the heavenly Jeruſalem, <hi>and to an innummerable company of Angels, to the general Aſſembly and Church of the firſt-born which are written in heaven; unto God the judge of all, and
+<pb n="37" facs="tcp:118283:24"/>to the ſpirits of juſt men made perfect. Paul</hi> was <hi>A Miniſter of Jeſus Chriſt by the will of God,</hi> who incouraged the Saints who were brought hither; but thou now perſecuteſt them, and art a witneſs againſt them that confeſs they are brought hither: here thou ſheweſt thou haſt the ſpirit of errour, openly; and art no Miniſter of God, no not of the Letter; but art againſt the Letter as it ſpeakes, perſecuting them that have the life of it.</p>
+            <p>Object. 5. <hi>That he had heard the laſt Trumpet ſound, and ſeen the new Jeruſalem.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> Here thou ſheweſt forth thy ſpite and venome: If <hi>John</hi> was here, which <hi>ſaw the great City and holy Ieruſalem deſcend out of heaven from good</hi> (John ſaid, <hi>I ſaw the holy City New Ieruſalem come down from God out of heaven)</hi> thou wouldſt be a witneſs againſt him; &amp; thou ſheweſt thyſelf in the generation that was ever perſecutors ſlanderers, &amp; oppoſers of the power of truth. Where the ſame ſpirit is that was in <hi>Iohn.</hi> he ſees theſe things now, as he did then: but where the ſame ſpirit is not, which thou ſheweſt thou haſt not, but a contrary ſpirit that perſecutes them which do ſee thoſe things; but is as a dog to bite and devour, <hi>Iohn</hi> ſaw the laſt trumpet ſound, which ſhews thou art not come to the firſt. <hi>Blow the trumpet in</hi> Slon,
+<note place="margin">Joel 2.1.</note> 
+               <hi>ſound an alarm in my holy mountain; let all the inhabitants of the earth tremble.</hi> Here be thou a witneſs againſt thy ſelf, that thou art a witneſs a<g ref="char:EOLhyphen"/>gainſt the truth, and in the generation of them that ever ſlew the righteous ſeed.</p>
+            <p>Obj. 6. <hi>That</hi> John Lawſon <hi>ſaid he had ſeen God face to face.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> Here thou ſheweſt thy ſelf to be a witneſs againſt them that know God, and makeſt thy ſelf manifeſt to be a heathen: for all are heathens that do not know God; and no man know<g ref="char:EOLhyphen"/>eth God ſaving he that is born of God; and who are born of God, are owners of the truth, and not againſt it, but againſt the deceit. <hi>Jacob</hi> ſaid, <hi>I have ſeen God face to face.
+<note place="margin">Gen. 32. Iſa. 6.5. Job 42.5.</note> Iſaiah</hi> ſaid, <hi>Mine eyes have ſeen the King, the Lord of hoſts. Job</hi> ſaid, I <hi>have heard of thee by the hearing of the ear; but now mine eyes have ſeen thee.</hi>
+               <note place="margin">Exo. 33.11.</note> And God ſpake to <hi>Moſes face to face.</hi> Here you may take your oaths, and ſwear againſt <hi>Jacob,</hi> againſt <hi>Iſaiah,</hi> againſt <hi>Job,</hi> and againſt <hi>Moſes.</hi> Where the
+<pb n="38" facs="tcp:118283:25"/>ſame Spirit is made manifeſt; and who are born of God, know God face to face, as they did: but they who are born of the fleſh, perſecute them who are born of the Spirit; and there you ſhew your ſelves to be, taking oaths and ſwearing againſt them that know God, ſeeking to bring them to priſon or bondage: for you never read in all the Scriptures, that the Prophets or the Apoſtles took their oaths againſt any which confeſſed they had ſeen God, or put up a Petition to the Magiſtrates, or witneſſed it with oathes a<g ref="char:EOLhyphen"/>gainſt any of them: the Miniſters of God ſaid, <hi>Swear not at all.</hi> And here you ſhew your ſelves to be no Miniſters or friends of God, but without God; for the Miniſters of God are to bring people to know God, and to the Church in God, and to the hea<g ref="char:EOLhyphen"/>venly Jeruſalem, and to the innummerable company of Angels, and miniſter to that which is in priſon, and in death; but if any come to witneſs theſe things fulfilled, you are witneſſes againſt them with Oaths, and would bring the bodies of ſuch into priſon, where the ſeed of God is raiſed out of priſon within; ſhewing your ſelves to be Antichriſts, perſecuters of the power of truth, and beaſts which ſhall make war againſt the Saints, and againſt the Lambe: but the Lamb ſhall get the victory.</p>
+            <p>
+               <hi>Job</hi> cryed when the Lord hid his face; and <hi>David</hi> cried when the Lord hid his face, and ſaid, <hi>O Lord,</hi> I <hi>will ſeek thy face.</hi> And here you ſhew, you neither know his face, nor have ſeen it; but are perſecuters of them who know it and ſeek it.</p>
+            <p>Praiſes, praiſes be to the Lord for ever.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+      <back>
+         <div type="errata">
+            <head>Errata.</head>
+            <p>Page 14. l. 18. after the word <hi>death</hi> put a, p. 16. l. 2. for <hi>were.</hi> read <hi>was.</hi> p. 18. l. 25. for the ſecond word <hi>Miniſtery, r. Miniſters.</hi> p. 20. l. 11. before the word <hi>ſaying r. one.</hi> p. 21. l. 31. for <hi>Prieſts, r. people.</hi> p. 24. l. 17. after the word <hi>That, r. ſome ſay.</hi> p. 25. l. 1. after <hi>proved, r. by.</hi> l. 2. after the word <hi>him, r. in him.</hi> p. 28. l. 4. <hi>r. ſave only what.</hi> p. 29. l. 5. <hi>r. of the Law as a Tranſgreſſor.</hi> l. 9. <hi>r. judged.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
